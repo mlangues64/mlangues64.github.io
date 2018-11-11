@@ -4,7 +4,7 @@ title: Coming soon !
 ---
 
 
-<div class="col-md-4 col-xs-2">
+<div class="col-md-4 col-xs-6">
     <img class="img-responsive" src="assests/logo_h.png" />
 </div>
 <div class="col-md-8 col-xs-12">
