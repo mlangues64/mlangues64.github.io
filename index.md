@@ -4,12 +4,12 @@ title: Coming soon !
 ---
 
 
-<div class="col-md-4">
+<div class="col-md-4 col-xs-2">
     <img class="img-responsive" src="assests/logo_h.png" />
 </div>
-<div class="col-md-8">
+<div class="col-md-8 col-xs-12">
     <p style="text-align:justify;">
-    Bienvenu sur le site de l'Association <b>M'Langues</b>.
+    Bienvenue sur le site de l'Association <b>M'Langues</b>.
     </p>
 
     <p style="text-align:justify;">
@@ -22,7 +22,7 @@ title: Coming soon !
     </p>
 
     <p style="text-align:justify;">
-    Une réunion d'information et d'enregistrement des premières Inscriptions
+    Une réunion d'information et d'enregistrement des premières inscriptions
     est prévue le <b style="color: #F08127;">Vendredi 30 Novembre à 20h30 à la Mairie de Morlaàs</b>. Venez
     nombreux !
     </p>
