@@ -5,7 +5,7 @@ title: Coming soon !
 
 
 <div class="col-md-4 col-xs-6">
-    <img class="img-responsive" src="assests/logo_h.png" />
+    <img class="img-responsive" src="{{ site.logo }}" />
 </div>
 <div class="col-md-8 col-xs-12">
     <p style="text-align:justify;">

@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+body {
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+/*
+    navbar
+*/
+
+.navbar {
+    background-color: #FFF;
+}
+
+.navbar-default {
+    border-color: $main_color;
+}
+
+.navbar-fixed-top {
+    border-width: 0 0 2px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: $light_gray;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: $main_color;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: $main_color;
+}
+
+/*
+    Jumbotron
+*/
+
+.jumbotron {
+    background-color: $main_color;
+    color: #FFF;
+}
+
+/*
+    foot
+*/
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    color: #FFF;
+    background-color: $main_color;
+    font-size: x-small;
+}
