@@ -17,6 +17,8 @@ name: Association M'Langues
 markdown: kramdown
 
 title: Association Morlanaise Langues et Culture
+home_title: Association M'Langues
+home_subtitle: Association Morlanaise Langues et Culture
 email: mlangues64@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   L'association Morlanaise Langues et Culture a pour objectif la promotion

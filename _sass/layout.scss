@@ -3,6 +3,7 @@
 body {
   padding-top: 50px;
   padding-bottom: 0px;
+  height: 100%;
 }
 
 /* Customize container */
@@ -50,6 +51,7 @@ body {
 */
 
 .jumbotron {
+    text-align: center;
     background-color: $main_color;
     color: #FFF;
 }
