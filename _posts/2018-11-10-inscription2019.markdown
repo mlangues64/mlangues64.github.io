@@ -8,6 +8,9 @@ comments: false
 L'année 2018-2019 est une année de démarrage pour l'association.
 Afin de lancer cette première année et de recueillir les premières inscriptions
 nous vous invitons à une réunion d'information le **XXXXXXXX XXX XXX XXX**.
+
+## Activités pour les enfants
+
 Les activités se dérouleront les mercredi après-midi et commenceront le mercredi
 9 Janvier 2019.
 
@@ -25,7 +28,7 @@ Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
 formulaire ci-dessous. Vous devez remplir **un formulaire pour chaque participant**.
 
 <p>
-    <a href="#" role="button" class="btn btn-lg btn-success" aria-label="Remove">
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
         <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
         <!-- <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> -->
         &nbsp;Inscriptions 2019
@@ -38,10 +41,33 @@ lorsque le dossier sera complet : le formulaire doit
 lesquelles vous vous inscrivez. L'encaissement pourra être échelonner sur plusieurs
 mois.
 
+En fonction de la demande, nous pourrons envisager l'ouverture d'autres créneaux
+horaires. Nous ferons un bilan mi-décembre pour comptabiliser les inscriptions
+et confirmer le démarrage des activités. Le nombre minimum d'enfants par groupe
+est fixé à 7. Par ailleurs n'hésitez pas à vous
+manifester dés cette année même si vous ne pouvez pas encore participer.
+Cela nous permettra de préparer au mieux l'année 2019-2020.
 
 ### Intervenante
 
 Les activités seront encadrées par Lana Smith
 
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/lana-smith/" data-format="inline" data-related="false"></script>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="lana-smith"><a class="LI-simple-link" href='https://fr.linkedin.com/in/lana-smith?trk=profile-badge'>Lana Smith</a></div>
+
+## Activités pour adolescents et adultes
+
+Les activités pour adolescents et/ou adultes auront lieu le mercredi après les
+ateliers des enfants. Le formulaire d'inscription est le même que celui des enfants
+et nous permettra de recenser les personnes intéressées. En fonction de la demande
+nous ouvrirons certaines activitées dés cette année. L'organisation de stage
+pendant les vacances scolaires est également possible.
+
+<p>
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        <!-- <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> -->
+        &nbsp;Inscriptions 2019
+    </a>
+</p>

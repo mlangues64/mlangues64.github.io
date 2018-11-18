@@ -8,24 +8,43 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# markdown processing
+markdown: kramdown
+
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 url: "https://mlangues64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-name: Association M'Langues
-markdown: kramdown
+baseurl: "" # the subpath of your site, e.g. /blog
 
+name: Association M'Langues
 title: Association Morlanaise Langues et Culture
+adress: 62 rue Bourgneuf, 64160 Morlaàs
 home_title: Association M'Langues
 home_subtitle: Association Morlanaise Langues et Culture
+
 email: mlangues64@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   L'association Morlanaise Langues et Culture a pour objectif la promotion
   des langues et de la culture.
-baseurl: "" # the subpath of your site, e.g. /blog
+
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  mlangues64
 logo: "/assets/img/logo_h.svg"
 navbar_logo: "/assets/img/logo_h.svg"
 
@@ -51,35 +70,10 @@ header_pages:
     - contact.md
     # - about.md
 
-navigation_pages:
-    - title: Activités
-      url: activites
-    - title: Actualités
-      url: actualites
-    - title: Contact
-      url: contact
-
-# Header nav
-# navigation_header:
-#   M'Langes: /
-#   À Propos: /about/
-#   Activités: /activites/
-#   Actualités: /actualites/
-#   Contact: /contact/
-
-# Footer nav
-# navigation_footer:
-#   Back to top: "#top"
-
-# Collections
-# collections:
-#   posts:
-#     title: Posts
-#     output: true
-#     description: "My thoughts and ideas"
-#     feature_text: |
-#       Plop
-#     feature_image: "http://gvallver.perso.univ-pau.fr/wp/wp-content/uploads/cm.png"
+footer_pages:
+    - mention_legale.md
+    - confidentialite.md
+    - reglement.md
 
 # Build settings
 plugins:
@@ -92,17 +86,3 @@ plugins:
   - jekyll-redirect-from
   - jekyll-default-layout
   - jemoji
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

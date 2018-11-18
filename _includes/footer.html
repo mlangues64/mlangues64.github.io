@@ -1,8 +1,25 @@
-<footer>
+<footer class="foot">
   <div class="container">
     {% if site.github.is_project_page %}
-    <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+    <p class="copyright">{{ site.title | default: site.github.repository_name }}</p>
     {% endif %}
-    <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+    {% if site.adress %}
+    <p class="copyright">{{ site.adress }}</p>
+    {% endif %}
+<!--
+     <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+
+    <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
   </div>
 </footer>
+
+{% if site.footer_pages %}
+<footer class="mention">
+    <div class="container">
+        {% for path in site.footer_pages %}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        {% endfor %}
+    </div>
+</footer>
+{% endif %}

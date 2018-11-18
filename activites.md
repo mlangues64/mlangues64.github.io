@@ -2,7 +2,6 @@
 layout: page
 title: Activités
 permalink: /activites/
-feature_image: http://gvallver.perso.univ-pau.fr/wp/wp-content/uploads/cm.png
 ---
 
 # Activités de l'association
@@ -21,6 +20,8 @@ l'anglais est la langue maternelle.
 Deux tranches d'âges sont proposées :
 * Les 4 - 6 ans
 * Les 7 - 10 ans
+
+Les groupes seront constitués de 7 à 10 enfants au maximum.
 
 Pour connaître les horaires et tarifs de l'année en cours et vous inscrire,
 consultez la [page relative aux inscriptions.]({{ site.baseurl }}{% post_url 2018-11-10-inscription2019 %})
@@ -44,4 +45,4 @@ La page est blanche et n'attend que vous pour étendre les activités de
 l'Association : apprentissage d'autres langues et langages, activités culturelles,
 conférences.
 
-N'hésitez pas à nous contacter ou nous rejoindre !
+N'hésitez pas à nous [contacter]({{ site.baseurl }}/contact) ou nous rejoindre !

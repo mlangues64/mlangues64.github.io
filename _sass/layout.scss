@@ -3,7 +3,6 @@
 body {
   padding-top: 50px;
   padding-bottom: 0px;
-  height: 100%;
 }
 
 /* Customize container */
@@ -60,11 +59,44 @@ body {
     foot
 */
 
-footer {
+.foot {
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 10px;
     color: #FFF;
     background-color: $main_color;
-    font-size: x-small;
+    font-size: small;
+}
+
+.foot a {
+    color: #DDD;
+    text-decoration: none;
+}
+
+.foot a:focus,
+.foot a:hover {
+    color: $light_gray;
+    text-decoration: underline;
+}
+
+.mention {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FFF;
+    background-color: $bleu_fonce;
+    font-size: small;
+    text-align: center;
+}
+
+.mention a {
+    color: $light_gray;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.mention a:focus,
+.mention a:hover {
+    color: #DDD;
+    text-decoration: underline;
 }
