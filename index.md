@@ -23,7 +23,7 @@ title: Coming soon !
 
     <p style="text-align:justify;">
     Une réunion d'information et d'enregistrement des premières inscriptions
-    est prévue le <b style="color: #F08127;"> date connue très prochainement à la Mairie de Morlaàs</b>. Venez
+    est prévue le <b style="color: #F08127;"> Mercredi 28 Novembre à 20h30 à la Mairie de Morlaàs</b>. Venez
     nombreux !
     </p>
 </div>
