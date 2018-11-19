@@ -5,11 +5,11 @@ longtitle: Politique de confidentialité et protection de la vie privée
 ---
 
 L'association Morlanaise Langues et Culture s'engage pour la protection de la vie
-privée de ses adhérants en accord avec le Règlement Général sur
+privée de ses adhérents en accord avec le Règlement Général sur
 la Protection des Données (RGPD) entré en vigueur le 25 mai 2018.
 
 Vous trouverez ci-après les informations sur la collecte, le traitement, la
-conservation et la protection des données des adhérants.
+conservation et la protection des données des adhérents.
 
 ## Recueil d’informations
 
@@ -25,13 +25,13 @@ an et toutes vos informations sont supprimées à cette occasion.
 
 ### Formulaire d'inscription
 
-Ce formulaire a pour objectif d'enregistrer l'inscription de l'adhérant aux activités de
+Ce formulaire a pour objectif d'enregistrer l'inscription de l'adhérent aux activités de
 l'association.
 
 Pour la personne qui participera aux activités, nous recueillons : Le nom, le prénom,
 la date de naissance et si elle est mineure, le nom et le prénonm d'un
 représentant légal. Nous recueillons l'adresse mail, l'adresse postale, et le numéro
-de téléphone portable de l'adhérant ou de son représentant légal. Si l'adhérant
+de téléphone portable de l'adhérent ou de son représentant légal. Si l'adhérent
 présente des allergies il est également invité à nous les indiquer en prévision
 d'activités manuelles.
 
@@ -42,7 +42,7 @@ mois de Septembre de l'année en cours au mois d'Août de l'année suivante.
 
 Les informations collectées sont utilisées pour :
 
-* contacter les adhérants et les informer de l'actualité de l'association
+* contacter les adhérents et les informer de l'actualité de l'association
 * organiser le fonctionnement des activités de l'association
 
 ## Sécurité et divulgation des informations
@@ -66,5 +66,5 @@ l'association :
 
 ## Consentement
 
-En adhérant à l'association et en remplissant le formulaire d'inscription,
+En adhérent à l'association et en remplissant le formulaire d'inscription,
 vous consentez à notre politique de confidentialité.
