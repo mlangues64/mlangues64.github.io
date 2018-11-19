@@ -9,9 +9,9 @@
         <span class="icon-bar"></span>
       </button>
       {%- if site.navbar_logo -%}
-        <a class="navbar-left" href="#" ><img src="{{ site.navbar_logo }}" height="40px" /></a>
+        <a class="navbar-left" href="{{ site.url }}" ><img src="{{ site.navbar_logo }}" height="40px" /></a>
       {%- else -%}
-        <a class="navbar-brand" href="#">{{ site.name }}</a>
+        <a class="navbar-brand" href="{{ site.url }}">{{ site.name }}</a>
       {%- endif -%}
     </div>
     <div id="navbar" class="navbar-collapse collapse">

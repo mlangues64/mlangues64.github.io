@@ -14,7 +14,7 @@ L'association vous propose des ateliers ludo-éducatifs pour les enfants à part
 de la classe de Moyenne Section et jusqu'à la fin de l'école primaire.
 Il s'agit d'initier les enfants à la compréhension et l'expression orale,
 en anglais, au travers d'activités ludiques, jeux, lectures, activités manuelles ...
-Les séances sont animés entièrement en anglais par un(e) intervenant(e) dont
+Les séances sont animées entièrement en anglais par un(e) intervenant(e) dont
 l'anglais est la langue maternelle.
 
 Deux tranches d'âges sont proposées :
@@ -23,8 +23,14 @@ Deux tranches d'âges sont proposées :
 
 Les groupes seront constitués de 7 à 10 enfants au maximum.
 
-Pour connaître les horaires et tarifs de l'année en cours et vous inscrire,
-consultez la [page relative aux inscriptions.]({{ site.baseurl }}{% post_url 2018-11-10-inscription2019 %})
+
+<p>
+    <a href="{{ site.baseurl }}{% post_url 2018-11-10-inscription2019 %}" role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        <!-- <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> -->
+        &nbsp;Inscriptions 2019
+    </a>
+</p>
 
 ### Ateliers pour adultes et adolescents
 
