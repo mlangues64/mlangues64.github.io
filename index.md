@@ -1,29 +1,18 @@
 ---
-layout: landing
-title: Coming soon !
+layout: home
+title: Bienvenue !
+feature_image: /assets/img/logo_h.svg
+feature_text: |
+    Bienvenue sur le site de l'Association Morlanaise Langues et Culture (M'Langues).
+    Sur ce site vous trouverez toutes les informations sur les activités
+    proposées par l'association.
 ---
 
+L'association M'Langues est une association à
+but non lucratif créée le 9 novembre 2018 avec pour objectif de promouvoir la
+découverte et la diffusion de la culture sous toutes ses formes et l'apprentissage
+des langues étrangères par une approche ludique et conviviale.
 
-<div class="col-md-4 col-xs-6">
-    <img class="img-responsive" src="{{ site.logo }}" />
-</div>
-<div class="col-md-8 col-xs-12">
-    <p style="text-align:justify;">
-    Bienvenue sur le site de l'Association <b>M'Langues</b>.
-    </p>
-
-    <p style="text-align:justify;">
-    Le site de l'association est actuellement en création. Très prochainement,
-    sur ce site, vous aurez accès à :
-    <ul>
-    <li>Toutes les informations sur les activités de l'association</li>
-    <li>Le formulaire d'inscription</li>
-    </ul>
-    </p>
-
-    <p style="text-align:justify;">
-    Une réunion d'information et d'enregistrement des premières inscriptions
-    est prévue le <b style="color: #F08127;"> Mercredi 28 Novembre à 20h30 à la Mairie de Morlaàs</b>. Venez
-    nombreux !
-    </p>
-</div>
+L'association est ouverte à tous et propose des [activités](/activites/)
+pour les enfants à partir de 4 ans, et pour adultes.
+N'hésitez pas à nous [contacter](/contact/) nous vous répondrons aussi vite que possible.
