@@ -52,6 +52,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username:  mlangues64
 logo: "/assets/img/logo_h.svg"
 navbar_logo: "/assets/img/logo_h.svg"
+favicon: "/assets/favicon/favicon.ico"
 
 # paginator
 # paginate: 3
