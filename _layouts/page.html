@@ -3,5 +3,18 @@ layout: default
 ---
 
 <div class="container">
-    {{ content }}
+    <article class="post" itemscope itemtype="http://schema.org/WebPage">
+
+      <header class="post-header">
+        {%- if page.longtitle -%}
+        <h1 class="post-title" itemprop="name headline">{{ page.longtitle | escape }}</h1>
+        {%- endif -%}
+      </header>
+
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    </article>
 </div>
