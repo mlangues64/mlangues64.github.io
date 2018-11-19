@@ -14,7 +14,7 @@ de la classe de Moyenne Section et jusqu'à la fin de l'école primaire.
 Il s'agit d'initier les enfants à la compréhension et l'expression orale,
 en anglais, au travers d'activités ludiques, jeux, lectures, activités manuelles ...
 Les séances sont animées entièrement en anglais par un(e) intervenant(e) dont
-l'anglais est la langue maternelle. Les ateliers se dérouleront sur Morlàas,
+l'anglais est la langue maternelle. Les ateliers se dérouleront sur Morlaàs,
 très certainement dans les locaux de l'école Jean-Moulin (le lieu exact sera confirmé
 prochainement).
 
