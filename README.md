@@ -41,7 +41,7 @@ Même chose numérotée
 3. trois
 ```
 
-### Caractéristiques techniques
+## Caractéristiques techniques
 
 * jekyll
-* theme minima
+* theme basé sur bootstrap css
