@@ -3,10 +3,22 @@
 body {
     font-family: 'Nunito', sans-serif;
     font-size: 16px;
+    color: $text_color;
 }
 
 p {
     text-align: justify;
+}
+
+a {
+    color: $main_color;
+    font-weight: 600;
+}
+
+a:focus,
+a:hover {
+    color: $link_color;
+    text-decoration: underline;
 }
 
 
@@ -33,3 +45,13 @@ h1.post-title {
 /*
     post-list
 */
+
+.post-list {
+    list-style: none;
+    padding-inline-start: 0px;
+    margin-top: 40px;
+}
+
+.post-list p.post-meta {
+    border: 0px;
+}

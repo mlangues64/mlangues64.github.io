@@ -30,6 +30,7 @@ body {
 
 .navbar-default .navbar-nav>li>a {
   color: $light_gray;
+  font-weight: normal;
 }
 
 .navbar-default .navbar-nav>li>a:focus,
@@ -74,34 +75,34 @@ body {
 }
 
 .foot a {
-    color: #DDD;
-    text-decoration: none;
+    color: #FFF;
 }
 
 .foot a:focus,
 .foot a:hover {
-    color: $light_gray;
-    text-decoration: underline;
+    color: #EEE;
 }
 
 .mention {
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #FFF;
+    color: #CCC;
     background-color: $bleu_fonce;
     font-size: small;
+}
+
+.mention p {
     text-align: center;
 }
 
 .mention a {
-    color: $light_gray;
-    margin-left: 15px;
-    margin-right: 15px;
-    text-decoration: none;
+    color: #CCC;
+    text-decoration: underline;
+    font-weight: normal;
 }
 
 .mention a:focus,
 .mention a:hover {
-    color: #DDD;
+    color: #FFF;
     text-decoration: underline;
 }

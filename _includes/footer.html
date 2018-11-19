@@ -1,11 +1,28 @@
 <footer class="foot">
   <div class="container">
-    {% if site.github.is_project_page %}
-    <p class="copyright">{{ site.title | default: site.github.repository_name }}</p>
+      <div class="pull-right">
+          <h4>Soutiens :</h4>
+          <p class=copyritht>
+            <a href="https://www.mairie-morlaas.fr/">Mairie de Morlaàs</a>
+          </p>
+      </div>
+
+    <h4>À propos :</h4>
+
+    <p class="copyright"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> {{ site.title }}</p>
+    <p class="copyright"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> {{ site.url }}</p>
+    {% if site.contact %}
+    <p class="copyright">
+        <a href="{{ site.contact.url }}">
+        <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+         {{ site.contact.title | default: Contact }}</a>
+    </p>
     {% endif %}
-    {% if site.adress %}
-    <p class="copyright">{{ site.adress }}</p>
+    {% if site.address %}
+    <p class="copyright"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> {{ site.address }}</p>
     {% endif %}
+
+
 <!--
      <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
 
@@ -16,10 +33,19 @@
 {% if site.footer_pages %}
 <footer class="mention">
     <div class="container">
+        <p> • 
         {% for path in site.footer_pages %}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          •
         {% endfor %}
+        </p>
+
+        <p>
+        Créé avec <a href="https://jekyllrb.com/">Jekyll</a> et
+        <a href="https://getbootstrap.com/">Bootstrap</a>.
+        Hébergé sur <a href="https://pages.github.com">GitHub Pages</a>
+        </p>
     </div>
 </footer>
 {% endif %}

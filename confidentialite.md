@@ -18,7 +18,7 @@ au travers de deux formulaires en ligne utilisant le service [Google Form](https
 
 ### Formulaire de contact
 
-Ce formulaire a pour objectif d'entrer en contact avec les dirigeants de l'associaiton.
+Ce formulaire a pour objectif d'entrer en contact avec l'associaiton.
 L'association recueille vos nom, prénom et adresse email afin de répondre à
 votre message. Le fichier contenant les informations est remis à zéro une fois par
 an et toutes vos informations sont supprimées à cette occasion.
@@ -29,7 +29,7 @@ Ce formulaire a pour objectif d'enregistrer l'inscription de l'adhérent aux act
 l'association.
 
 Pour la personne qui participera aux activités, nous recueillons : Le nom, le prénom,
-la date de naissance et si elle est mineure, le nom et le prénonm d'un
+la date de naissance et si elle est mineure, le nom et le prénom d'un
 représentant légal. Nous recueillons l'adresse mail, l'adresse postale, et le numéro
 de téléphone portable de l'adhérent ou de son représentant légal. Si l'adhérent
 présente des allergies il est également invité à nous les indiquer en prévision

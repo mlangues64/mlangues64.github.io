@@ -5,15 +5,15 @@ layout: default
 <div class="container">
     <article class="post" itemscope itemtype="http://schema.org/WebPage">
 
+    {%- if page.longtitle -%}
       <header class="post-header">
-        {%- if page.longtitle -%}
         <h1 class="post-title" itemprop="name headline">{{ page.longtitle | escape }}</h1>
-        {%- endif -%}
       </header>
+    {%- endif -%}
 
-      <div class="post-content" itemprop="articleBody">
-        {{ content }}
-      </div>
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
 
       <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
     </article>

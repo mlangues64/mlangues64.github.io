@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inscritpions 2019
+title: Inscriptions 2019
 excerpt: Inscriptions aux activités pour l'année 2019
 comments: false
 author: M'Langues
@@ -13,8 +13,10 @@ nous vous invitons à une réunion d'information le **Mercredi 28 Novembre à 20
 
 ## Activités pour les enfants
 
-Les activités se dérouleront les mercredi après-midi et commenceront le mercredi
-9 Janvier 2019.
+Les activités se dérouleront les mercredis après-midi et commenceront le mercredi
+9 Janvier 2019. Elles se déroueleront sur Morlàas, très certainement
+dans les locaux de l'école Jean-Moulin (le lieu exact sera confirmé
+prochainement).
 
 Le planning des activités est le suivant :
 
@@ -25,6 +27,9 @@ Le planning des activités est le suivant :
 | 15h30 - 16h30 | 7 - 10 ans |
 | À partir de 17h | Adolescents / Adultes selon la demande. |
 {: .table }
+
+Le tarif pour les activités de Janvier à Juin 2019 est de 80€ plus 10€ d'adhésion
+à l'association (5€ d'adhésion à partir de la deuxième personne d'une même famille).
 
 Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
 formulaire ci-dessous. Vous devez remplir **un formulaire pour chaque participant**.
@@ -50,21 +55,16 @@ est fixé à 7. Par ailleurs n'hésitez pas à vous
 manifester dès cette année même si vous ne pouvez pas encore y participer.
 Cela nous permettra de préparer au mieux l'année 2019-2020.
 
-### Intervenante
-
-Les activités seront encadrées par Lana Smith
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="lana-smith"><a class="LI-simple-link" href='https://fr.linkedin.com/in/lana-smith?trk=profile-badge'>Lana Smith</a></div>
-
 ## Activités pour adolescents et adultes
 
 Les activités pour adolescents et/ou adultes auront lieu le mercredi après les
 ateliers des enfants. Le formulaire d'inscription est le même que celui des enfants
 et nous permettra de recenser les personnes intéressées. En fonction de la demande
 nous ouvrirons certaines activités dès cette année. L'organisation de stages
-pendant les vacances scolaires est également possible.
+pendant les vacances scolaires est également possible. N'hésitez pas à remplir le
+formulaire d'inscription simplement pour signaler que vous êtes intéressés. Cela
+nous permettra de mettre en place des activités en fin d'année et de préparer
+l'année prochaine.
 
 <p>
     <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
@@ -73,3 +73,11 @@ pendant les vacances scolaires est également possible.
         &nbsp;Inscriptions 2019
     </a>
 </p>
+
+## Intervenante
+
+Les activités seront encadrées par Lana Smith
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="lana-smith"><a class="LI-simple-link" href='https://fr.linkedin.com/in/lana-smith?trk=profile-badge'>Lana Smith</a></div>
