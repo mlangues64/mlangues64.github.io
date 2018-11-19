@@ -52,9 +52,9 @@ logo: "/assets/img/logo_h.svg"
 navbar_logo: "/assets/img/logo_h.svg"
 
 # paginator
-paginate: 3
-paginate_path: /actualites/page:num
-permalink: /actualites/:title
+# paginate: 3
+# paginate_path: /actualites/page:num
+# permalink: /actualites/:title
 
 # set theme
 # ---------
@@ -79,9 +79,10 @@ footer_pages:
     - reglement.md
 
 # Build settings
+# --------------
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-mentions
   - jekyll-paginate
