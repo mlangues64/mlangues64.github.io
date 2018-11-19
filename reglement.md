@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Règlement intérieur
+longtitle: Règlement intérieur de l'Association Morlanaise Langues et Culture
 ---
 
-# Règlement intérieur de l'Association Morlanaise Langues et Culture
 
 ## Introduction
 

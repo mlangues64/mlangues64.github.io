@@ -1,9 +1,8 @@
 ---
 layout: page
 title: politique de confidentialité
+longtitle: Politique de confidentialité et protection de la vie privée
 ---
-
-# Politique de confidentialité et protection de la vie privée
 
 L'association Morlanaise Langues et Culture s'engage pour la protection de la vie
 privée de ses adhérants en accord avec le Règlement Général sur

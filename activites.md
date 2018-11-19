@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Activités
+longtitle: Activités de l'association
 permalink: /activites/
 ---
-
-# Activités de l'association
 
 ## Découverte et approfondissement de l'anglais
 
@@ -23,6 +22,7 @@ Deux tranches d'âges sont proposées :
 
 Les groupes seront constitués de 7 à 10 enfants au maximum.
 
+Pour plus d'informations consultez la page sur les inscriptions :
 
 <p>
     <a href="{{ site.baseurl }}{% post_url 2018-11-10-inscription2019 %}" role="button" class="btn btn-lg btn-success" aria-label="Remove">

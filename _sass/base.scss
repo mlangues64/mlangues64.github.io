@@ -10,15 +10,6 @@ p {
 }
 
 
-h1 {
-    color: $main_color;
-    font-weight: bold;
-}
-
-h2, h3, h4 {
-    color: $light_gray;
-}
-
 /*
     Post
 */
@@ -33,6 +24,12 @@ h1.post-title {
     font-weight: bold;
 }
 
-.post-content h2 {
+.post-content h2,
+.post-content h3,
+.post-content h4  {
     color: $light_gray;
 }
+
+/*
+    post-list
+*/

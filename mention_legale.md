@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Mentions légales
+longtitle: Mentions légales
 ---
 
-# Mentions légales
 
 ## L'association
 
