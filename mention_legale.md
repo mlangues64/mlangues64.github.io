@@ -15,8 +15,6 @@ Son siège social est situé au 62 rue du Bourgneuf 64160 Morlaàs.
 
 Pour contacter l'association, merci de remplir le [formulaire de contact]({{ site.baseurl }}/contact).
 
-<a href="{{ site.email | encode_email }}"> email </a>
-
 ## Site Web
 
 Le site web est administré par les membres du bureau de l'association. Il est
