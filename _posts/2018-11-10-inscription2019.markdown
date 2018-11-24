@@ -19,12 +19,12 @@ prochainement). Elles commenceront le mercredi 9 Janvier 2019.
 
 Le planning des activités est le suivant :
 
-| Horaires | Tranche d'âge |
-|:--------:|:-------------:|
-| 13h30 - 14h30 | 7 - 10 ans |
-| 14h30 - 15h30 | 4 - 6 ans |
-| 15h30 - 16h30 | 7 - 10 ans |
-| À partir de 17h | Adolescents / Adultes selon la demande. |
+| Horaires | Tranche d'âge |      |
+|:--------:|:-------------:|:----:|
+| 13h30 - 14h30 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
+| 14h30 - 15h30 | 4 - 6 ans | reste 6 places |
+| 15h30 - 16h30 | 7 - 10 ans | reste 10 places |
+| À partir de 17h | Adolescents / Adultes selon la demande. | |
 {: .table }
 
 Le tarif pour les activités de Janvier à Juin 2019 est de 80€ plus 10€ d'adhésion
