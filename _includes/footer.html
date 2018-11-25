@@ -10,7 +10,14 @@
     <h4>À propos :</h4>
 
     <p class="copyright"><span class="fas fa-user" aria-hidden="true"></span> {{ site.title }}</p>
-    <p class="copyright"><span class="fas fa-globe-africa" aria-hidden="true"></span> {{ site.url }}</p>
+    <!-- <p class="copyright"><span class="fas fa-globe-africa" aria-hidden="true"></span> {{ site.url }}</p> -->
+    {% if site.facebook_username %}
+    <p class="copyright">
+    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+        <span class="fab fa-facebook-f" aria-hidden="true"></span>
+        &nbsp; MLangues
+    </a></p>
+    {% endif %}
     {% if site.contact %}
     <p class="copyright">
         <a href="{{ site.contact.url }}">
