@@ -35,8 +35,7 @@ formulaire ci-dessous. Vous devez remplir **un formulaire pour chaque participan
 
 <p>
     <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
-        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-        <!-- <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> -->
+        <span class="far fa-check-circle" aria-hidden="true"></span>
         &nbsp;Inscriptions 2019
     </a>
 </p>
@@ -67,8 +66,7 @@ l'année prochaine.
 
 <p>
     <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
-        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-        <!-- <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> -->
+        <span class="far fa-check-circle" aria-hidden="true"></span>
         &nbsp;Inscriptions 2019
     </a>
 </p>
