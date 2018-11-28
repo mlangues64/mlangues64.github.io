@@ -15,9 +15,12 @@ nous vous invitons à une réunion d'information le **Mercredi 28 Novembre à 20
 
 Les activités se dérouleront les mercredis après-midi sur Morlàas, très certainement
 dans les locaux de l'école Jean-Moulin (le lieu exact sera confirmé
-prochainement). Elles commenceront le mercredi 9 Janvier 2019.
+prochainement). Elles commenceront le mercredi 9 Janvier 2019. 
 
-Le planning des activités est le suivant :
+L'ouverture de créneaux le samedi matin est possible sous réserve d'un
+nombre suffisant d'inscriptions.
+
+#### Activités le mercredi après-midi :
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
@@ -26,6 +29,15 @@ Le planning des activités est le suivant :
 | 15h30 - 16h30 | 7 - 10 ans | reste 4 places |
 | À partir de 17h | Adolescents / Adultes selon la demande. | |
 {: .table }
+
+#### Activités le samedi matin :
+
+| Horaires | Tranche d'âge |      |
+|:--------:|:-------------:|:----:|
+| 10h - 11h | 4 - 6 ans | reste 5 places |
+| 11h - 12h | 7 - 10 ans | reste 5 places |
+{: .table }
+
 
 Le tarif pour les activités de Janvier à Juin 2019 est de 80€ plus 10€ d'adhésion
 à l'association (5€ d'adhésion à partir de la deuxième personne d'une même famille).
