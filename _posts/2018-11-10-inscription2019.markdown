@@ -22,8 +22,8 @@ Le planning des activités est le suivant :
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
 | 13h30 - 14h30 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
-| 14h30 - 15h30 | 4 - 6 ans | reste 5 places |
-| 15h30 - 16h30 | 7 - 10 ans | reste 6 places |
+| 14h30 - 15h30 | 4 - 6 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
+| 15h30 - 16h30 | 7 - 10 ans | reste 4 places |
 | À partir de 17h | Adolescents / Adultes selon la demande. | |
 {: .table }
 
