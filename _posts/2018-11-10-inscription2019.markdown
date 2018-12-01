@@ -17,8 +17,8 @@ Les activités se dérouleront les mercredis après-midi sur Morlàas, très cer
 dans les locaux de l'école Jean-Moulin (le lieu exact sera confirmé
 prochainement). Elles commenceront le mercredi 9 Janvier 2019. 
 
-L'ouverture de créneaux le samedi matin est possible sous réserve d'un
-nombre suffisant d'inscriptions.
+L'ouverture de créneaux supplémentaires le samedi matin ou le mercredi en fin d'après midi
+ne sera possible qu'à partir d'un nombre suffisant d'inscriptions.
 
 #### Activités le mercredi après-midi :
 
@@ -26,8 +26,9 @@ nombre suffisant d'inscriptions.
 |:--------:|:-------------:|:----:|
 | 13h30 - 14h30 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
 | 14h30 - 15h30 | 4 - 6 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
-| 15h30 - 16h30 | 7 - 10 ans | reste 4 places |
-| À partir de 17h | Adolescents / Adultes selon la demande. | |
+| 15h30 - 16h30 | 7 - 10 ans | reste 1 place |
+| 16h30 - 17h30 | 4 - 6 ans | reste 6 places |
+| À partir de 17h30 | Adolescents / Adultes selon la demande. | |
 {: .table }
 
 #### Activités le samedi matin :
