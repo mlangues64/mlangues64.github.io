@@ -9,7 +9,7 @@ longtitle: Mentions légales
 
 L'Association Morlanaise Langues et Culture est une association loi 1901 créée
 le 10 Novembre 2018, enregistrée à la Préfecture des Pyrénées-Atlantiques sous le
-numéro n°WXXXXXXXXXXX.
+numéro n°W643011433.
 
 Son siège social est situé au 62 rue du Bourgneuf 64160 Morlaàs.
 
