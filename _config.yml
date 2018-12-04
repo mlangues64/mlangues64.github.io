@@ -31,41 +31,48 @@ markdown: kramdown
 url: "https://mlangues64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-name: Association M'Langues
+# site settings
 title: Association Morlanaise Langues et Culture
-address: 62 rue Bourgneuf, 64160 Morlaàs
+email: mlangues64@gmail.com
+name: M'Langues
+description: >- # this means to ignore newlines until "baseurl:"
+  L'association Morlanaise Langues et Culture a pour objectif la promotion
+  des langues et de la culture. Elle propose des activités à Morlaàs pour
+  enfants et adultes.
+
+# Jumbotron
 home_title: M'Langues
 home_subtitle: Association Morlanaise Langues et Culture
 
-google_analytics: UA-129498792-1
-
-email: mlangues64@gmail.com
+# in footer
 contact:
     url: /contact
     title: Nous contacter
+address: 62 rue Bourgneuf, 64160 Morlaàs
 
-description: >- # this means to ignore newlines until "baseurl:"
-  L'association Morlanaise Langues et Culture a pour objectif la promotion
-  des langues et de la culture.
+# Google analytics
+google_analytics: UA-129498792-1
 
-# twitter_username: jekyllrb
+# Social links => SEO plugins
 github_username:  mlangues64
 logo: "/assets/img/logo_h.svg"
 navbar_logo: "/assets/img/logo_h.svg"
 favicon: "/assets/favicon/favicon.ico"
 facebook_username: MLangues
+facebook:
+  publisher: MLangues
+social:
+    name: M'Langues
+    links:
+        - https://www.facebook.com/MLangues
+        - https://github.com/mlangues64
+lang: fr_FR
+
 
 # paginator
 # paginate: 3
 # paginate_path: /actualites/page:num
 # permalink: /actualites/:title
-
-# set theme
-# ---------
-# remote_theme: daviddarnes/alembic
-# theme: minima
-# theme: jekyll-theme-slate
-# theme: jekyll-theme-architect
 
 # navigation
 # ----------
@@ -77,6 +84,8 @@ header_pages:
     - contact.md
     # - about.md
 
+# If you want to link specific pages in your footer, uncomment this
+# and add the path to the pages in order as they should show up
 footer_pages:
     - mention_legale.md
     - confidentialite.md
@@ -85,12 +94,9 @@ footer_pages:
 # Build settings
 # --------------
 plugins:
-  - jekyll-feed
-  # - jekyll-remote-theme
+  # - jekyll-feed
   - jekyll-sitemap
-  - jekyll-mentions
+  # - jekyll-mentions
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jekyll-default-layout
   - jemoji

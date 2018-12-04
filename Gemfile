@@ -17,19 +17,11 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-remote-theme"
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-feed", "~> 0.6"
-  # gem "jekyll-seo-tag"
-  # gem "alembic-jekyll-theme"
   gem "jekyll-sitemap"
-  gem "jekyll-mentions"
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
-  gem "jekyll-redirect-from"
-  gem "jekyll-feed"
   gem "jemoji"
 end
 
