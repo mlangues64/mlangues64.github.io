@@ -27,7 +27,7 @@ ne sera possible qu'à partir d'un nombre suffisant d'inscriptions.
 | 13h30 - 14h30 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
 | 14h30 - 15h30 | 4 - 6 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
 | 15h45 - 16h45 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
-| 16h45 - 17h45 | 4 - 6 ans | reste 2 places |
+| 16h45 - 17h45 | 4 - 6 ans | <span style="color: #B7222E; font-weight:bold;">reste 1 place</span> |
 | À partir de 17h30 | Adolescents / Adultes selon la demande. | |
 {: .table }
 
@@ -36,7 +36,7 @@ ne sera possible qu'à partir d'un nombre suffisant d'inscriptions.
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
 | 10h - 11h | 4 - 6 ans | reste 4 places |
-| 11h - 12h | 7 - 10 ans | reste 5 places |
+| 11h - 12h | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
 {: .table }
 
 
