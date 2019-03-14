@@ -81,6 +81,7 @@ lang: fr_FR
 header_pages:
     - activites.md
     - actualites.md
+    - agenda.md
     - contact.md
     # - about.md
 
