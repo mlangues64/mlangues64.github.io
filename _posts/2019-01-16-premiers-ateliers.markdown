@@ -17,6 +17,3 @@ Tous les ateliers ont lieu à la bibliothèque de l'école Jean-Moulin, à Morla
 
 ![7 - 10 ans](/assets/img/16012019-7-10ans.jpg)
 
-Les 4 - 6 ans, à 14h30, en plein travail autour de Lana !
-
-![4 - 6 ans](/assets/img/16012019-4-6ans.jpg)
