@@ -55,8 +55,9 @@ google_analytics: UA-129498792-1
 
 # Social links => SEO plugins
 github_username:  mlangues64
-logo: "/assets/img/logo_h.svg"
-navbar_logo: "/assets/img/logo_h.svg"
+logo: "/assets/img/logo_h.png"
+navbar_logo: "/assets/img/logo_navbar.png"
+jumbotron_image: "/assets/img/jumbotron.png"
 favicon: "/assets/favicon/favicon.ico"
 facebook_username: MLangues
 facebook:

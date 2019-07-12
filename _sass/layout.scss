@@ -52,8 +52,14 @@ body {
 
 .jumbotron {
     text-align: center;
+    min-height: 300px;
     background-color: $main_color;
     color: #FFF;
+}
+
+.jumbotron img {
+    max-width: 80%;
+    height: auto;
 }
 
 .jumbotron p {

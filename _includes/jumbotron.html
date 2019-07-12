@@ -5,11 +5,15 @@
     <h3>{{ site.home_subtitle | site.description | default: site.github.project_tagline }}</h3>
     <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p> -->
 
-    <p>
+    {%- if site.jumbotron_image -%}
+      <img src="{{ site.jumbotron_image }}" alt="image association" />
+    {%- endif -%}
+
+    <!-- <p>
         <a href="{{ site.baseurl }}{% post_url 2018-11-10-inscription2019 %}" role="button" class="btn btn-lg btn-success" aria-label="Remove">
             <span class="far fa-check-circle" aria-hidden="true"></span>
             &nbsp;Inscriptions 2019
         </a>
-    </p>
+    </p> -->
   </div>
 </div>
