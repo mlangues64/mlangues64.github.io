@@ -22,8 +22,7 @@ list_title: ""
       <li>
         <p class="post-meta pull-right">
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            {{ post.date | date: date_format }}
+            {% include date.html date=post.date %}
           </time>
         </p>
         <h3>
