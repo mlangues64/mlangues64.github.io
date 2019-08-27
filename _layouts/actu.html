@@ -20,22 +20,24 @@ list_title: ""
       {% assign sorted_posts = (site.posts | sort: 'date') | reverse %}
       {%- for post in sorted_posts -%}
       <li>
+        <p class="post-meta pull-right">
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ post.date | date: date_format }}
+          </time>
+        </p>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+        {%- if post.author -%}
         <p class="post-meta">
-          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            {{ post.date | date: date_format }}
-          </time>
-          {%- if post.author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                <span class="author" itemprop="name">{{ post.author | escape }}</span>
-            </span>
-          {%- endif -%}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="author" itemprop="name">{{ post.author | escape }}</span>
+          </span>
         </p>
+        {%- endif -%}
         {%- if page.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
