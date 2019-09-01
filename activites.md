@@ -56,7 +56,7 @@ Les ateliers et cours d'anglais auront lieu dans la bibliothèque de l'école
 Jean Moulin à Morlaàs. L'accès se fait par la rue piétonne entre l'école
 primaire (Jean Moulin) et l'école maternelle.
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/mlangues_358859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/mlangues_358859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
 
 ---
