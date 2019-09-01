@@ -61,9 +61,9 @@ début de demi-journée, 9h le matin ou 14h l'après midi.
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
-| 9h00 - 10h00 | 7 - 10 ans | conseillé pour le centre aéré |
-| 10h00 - 11h00 | 4 - 6 ans |  |
-| 11h00 - 12h00 | 7 - 10 ans |  |
+| 9h30 - 10h30 | 7 - 10 ans | conseillé pour le centre aéré |
+| 10h30 - 11h30 | 4 - 6 ans |  |
+| 11h30 - 12h30 | 7 - 10 ans |  |
 |:--------:|:-------------:|:----:|
 | 14h00 - 15h00 | 7 - 10 ans | conseillé pour le centre aéré |
 | 15h00 - 16h00 | 7 - 10 ans |  |
