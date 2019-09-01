@@ -98,7 +98,7 @@ Saisissez votre niveau (A1, A2, B1, B2, C1 ou C2) dans le formulaire d'inscripti
 
 ## Tarifs
 
-Pour participer aux activités chaque famille doit adhérer à l'association. Le
+Pour participer aux activités, chaque famille doit adhérer à l'association. Le
 montant de la cotisation annuelle est de 10€ **par famille**.
 
 Les tarifs des activités sont les suivants :
