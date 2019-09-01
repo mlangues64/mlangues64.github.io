@@ -34,7 +34,7 @@ Voici quelques dates à noter dans vos agendas. L'agenda de l'année est disponi
 en permanence sur le site de l'association : [voir agenda (en haut à droite)]({{ site.baseurl }}/agenda).
 
 * **Forum des associations :** Samedi 7 Septembre 2019, salle polyvalente, Morlaàs
-* **Assemblée Générale :** Lundi 9 Septembre 2019, 20h30, Marie, place Sainte Foy, Morlaàs
+* **Assemblée Générale :** Lundi 9 Septembre 2019, 20h30, Mairie, place Sainte Foy, Morlaàs
 * **Début des activités :** 16 Septembre 2019
 * **Fin des activités :** 20 Juin 2020
 
@@ -46,16 +46,16 @@ Elles commenceront le mercredi 18 septembre 2019.
 Trois tranches d'âge sont proposées : 4 - 6 ans (MS/GS - CP), 7 - 10 ans (primaire)
 et 10 - 18 ans (Collège/Lycée). Chaque séance dure une heure.
 
-Les séances seront limités à 8 enfants maximum et ouvriront à condition qu'un
+Les séances seront limitées à 8 enfants maximum et ouvriront à condition qu'un
 nombre minimum d'enfants soient inscrits.
 
 Les activités sont ouvertes aux enfants inscrits au centre aéré
 [Les aventuriers, à Morlaàs](http://www.cc-paysdemorlaas.fr/index.php/enfance-jeunesse/les-aventuriers).
 Dans ce cas, vous devez prévenir le centre aéré lorsque
-vous déposez votre enfants en précisant la séance à laquelle il est inscrit.
+vous déposez votre enfant en précisant la séance à laquelle il est inscrit.
 Pour être en phase avec le rythme des activités du
-centre aéré, nous vous conseillons d'inscrire votre enfants sur les ateliers en
-début de demi-journée, 9h le matin ou 14h l'après midi.
+centre aéré, nous vous conseillons d'inscrire votre enfant sur les ateliers en
+début de demi-journée, 9h30 le matin ou 14h l'après midi.
 
 #### Ateliers le mercredi :
 
