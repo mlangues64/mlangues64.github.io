@@ -1,0 +1,135 @@
+---
+layout: post
+title: Saison 2019-2020
+excerpt: Informations et inscriptions aux activités pour la saison 2019-2020
+comments: false
+author: M'Langues
+---
+
+Les inscriptions sont ouvertes pour l'année 2019-2020 !
+
+Sur cette page, vous trouverez : les dates importantes de cette saison 2019-2020,
+les horaires des activités enfants, adolescents et adultes, les tarifs, le lieu
+des activités et [le formulaire d'inscription qui est disponible à la fin de la page.](#formulaire-dinscription)
+Veuillez prendre connaissance du
+[règlement intérieur de l'association]({{ site.baseurl }}/reglement) que vous
+devrez accepter lors de l'inscription.
+
+---
+
+Sommaire :
+
+1. [Dates importantes](#dates-importantes)
+2. [Activités enfants et adolescents](#activités-enfants-et-adolescents)
+3. [Ateliers adultes](#ateliers-adultes)
+4. [Tarifs](#tarifs)
+5. [Lieu des activités](#lieu-des-activités)
+6. [Formulaire d'inscription 2019](#formulaire-dinscription)
+
+---
+
+## Dates importantes
+
+Voici quelques dates à noter dans vos agendas. L'agenda de l'année est disponible
+en permanence sur le site de l'association : [voir agenda (en haut à droite)]({{ site.baseurl }}/agenda).
+
+* **Forum des associations :** Samedi 7 Septembre 2019, salle polyvalente, Morlaàs
+* **Assemblée Générale :** Lundi 9 Septembre 2019, 20h30, Marie, place Sainte Foy, Morlaàs
+* **Début des activités :** 16 Septembre 2019
+* **Fin des activités :** 20 Juin 2020
+
+## Activités enfants et adolescents
+
+Les activités pour les enfants se dérouleront les mercredis, toute la journée,
+et samedis matin dans la [bibliothèque de l'école Jean Moulin à Morlàas](#lieu-des-activités).
+Elles commenceront le mercredi 18 septembre 2019.
+Trois tranches d'âge sont proposées : 4 - 6 ans (MS/GS - CP), 7 - 10 ans (primaire)
+et 10 - 18 ans (Collège/Lycée). Chaque séance dure une heure.
+
+Les séances seront limités à 8 enfants maximum et ouvriront à condition qu'un
+nombre minimum d'enfants soient inscrits.
+
+Les activités sont ouvertes aux enfants inscrits au centre aéré
+[Les aventuriers, à Morlaàs](http://www.cc-paysdemorlaas.fr/index.php/enfance-jeunesse/les-aventuriers).
+Dans ce cas, vous devez prévenir le centre aéré lorsque
+vous déposez votre enfants en précisant la séance à laquelle il est inscrit.
+Pour être en phase avec le rythme des activités du
+centre aéré, nous vous conseillons d'inscrire votre enfants sur les ateliers en
+début de demi-journée, 9h le matin ou 14h l'après midi.
+
+#### Ateliers le mercredi :
+
+| Horaires | Tranche d'âge |      |
+|:--------:|:-------------:|:----:|
+| 9h00 - 10h00 | 7 - 10 ans | conseillé pour le centre aéré |
+| 10h00 - 11h00 | 4 - 6 ans |  |
+| 11h00 - 12h00 | 7 - 10 ans |  |
+|:--------:|:-------------:|:----:|
+| 14h00 - 15h00 | 7 - 10 ans | conseillé pour le centre aéré |
+| 15h00 - 16h00 | 7 - 10 ans |  |
+| 16h15 - 17h15 | 4 - 6 ans |  |
+|:--------:|:-------------:|:----:|
+| 17h15 - 18h15 | 11 - 14 ans | collège / Lycée |
+{: .table }
+
+#### Ateliers le samedi matin :
+
+| Horaires | Tranche d'âge |      |
+|:--------:|:-------------:|:----:|
+| 10h - 11h | 4 - 6 ans |  |
+| 11h - 12h | 7 - 10 ans |  |
+{: .table }
+
+## Ateliers adultes
+
+Les ateliers dédiés aux adultes se dérouleront en soirée, les mercredis et vendredis et durent
+1h30. Deux groupes sont proposés. Lors de l'inscription, vous serez invités à
+évaluer votre niveau en répondant à un formulaire en ligne conçu par l'Université
+de Cambridge : [formulaire pour tester son niveau](https://www.cambridgeenglish.org/fr/test-your-english/).
+À l'issu du test, vous obtiendrez une indication de votre niveau selon le
+[Cadre européen commun de référence pour les langues (CECRL)](http://www.cambridgeenglish.org/fr/exams-and-qualifications/cefr/).
+Saisissez votre niveau (A1, A2, B1, B2, C1 ou C2) dans le formulaire d'inscription.
+
+| Jours | horaires | places |
+|:--------:|:-------------:|:----:|
+| Mercredi | 18h30 - 20h00  | 8 places |
+| Vendredi | 20h00 - 21h30  | 8 places |
+{: .table }
+
+## Tarifs
+
+Pour participer aux activités chaque famille doit adhérer à l'association. Le
+montant de la cotisation annuelle est de 10€ **par famille**.
+
+Les tarrifs des activités sont les suivants :
+
+* Enfants : 150 €
+* adolescents : 150 €
+* Adultes : 240 €
+
+Les inscriptions seront prises en compte dans l'ordre chronologique et validées
+lorsque le dossier sera complet : le formulaire d'inscription doit avoir été rempli
+**pour chaque participant** et vous devez payer l'adhésion à l'association
+ainsi que les activités auxquelles vous souhaitez participer. Le règlement peut
+être échelonné sur plusieurs mois.
+
+## Lieu des activités
+
+Les ateliers et cours d'anglais auront lieu dans la bibliothèque de l'école
+Jean Moulin à Morlaàs. L'accès se fait par la rue piétonne entre l'école
+primaire (Jean Moulin) et l'école maternelle.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/mlangues_358859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+
+## Formulaire d'inscription
+
+Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
+formulaire ci-dessous. Nous vous rappelons que vous devez remplir
+**un formulaire pour chaque participant**.
+
+<p class="text-center">
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="far fa-check-circle" aria-hidden="true"></span>
+        &nbsp;Inscriptions 2019-2020
+    </a>
+</p>
