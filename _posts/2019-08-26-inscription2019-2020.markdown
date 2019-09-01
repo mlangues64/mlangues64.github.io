@@ -69,7 +69,7 @@ début de demi-journée, 9h le matin ou 14h l'après midi.
 | 15h00 - 16h00 | 7 - 10 ans |  |
 | 16h15 - 17h15 | 4 - 6 ans |  |
 |:--------:|:-------------:|:----:|
-| 17h15 - 18h15 | 11 - 14 ans | collège / Lycée |
+| 17h15 - 18h15 | 11 ans et plus | collège / Lycée |
 {: .table }
 
 #### Ateliers le samedi matin :
