@@ -8,7 +8,7 @@ body {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 830px;
   }
 }
 
@@ -67,6 +67,15 @@ body {
     text-align: center;
     margin-top: 20px;
 }
+
+/*
+    post content
+*/
+.post-content img {
+    margin: auto 10px;
+}
+
+
 
 /*
     foot

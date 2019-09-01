@@ -33,7 +33,8 @@ a.facebook {
 
 p.post-meta {
     color: $light_gray;
-    border-bottom: 1px solid $light_gray;
+    border-bottom: 1px solid #CCC;
+    margin-bottom: 30px;
 }
 
 h1.post-title {
@@ -58,7 +59,7 @@ h1.post-title {
 }
 
 .post-list li {
-    border-bottom: 1px solid #EEE;
+    border-bottom: 1px solid #CCC;
     padding-bottom: 10px;
 }
 
