@@ -25,8 +25,7 @@ L'association organise en début d'année scolaire une campagne d'adhésion à
 l'Association. L'association est ouverte à tous, sans condition ni distinction.
 Aucune discrimination ne doit avoir lieu dans l'organisation et la vie de l'association.
 
-La cotisation est fixée à 10€ par adhérent (10 euros) et de 5€ (cinq euros) à
-partir du deuxième adhérent de la même famille.
+Le montant de la cotisation est fixée à 10€ par famille.
 
 ## Accès aux activités
 
