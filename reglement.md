@@ -57,8 +57,9 @@ participé à l'activité en dehors des horaires de cette dernière.
 
 Les adhérents de l'association et les participants aux activités s'engagent :
 
-* à respecter les lieux occupés et visités lors des différentes activités
-* à s'impliquer dans les tâches collectives liées aux différents projets menés par l'association
+* à respecter les intervenants, les bénévoles et les autres adhérents avec qui ils participent aux activités de l'association.
+* à respecter les lieux occupés et visités lors des différentes activités.
+* à s'impliquer dans les tâches collectives liées aux différents projets menés par l'association.
 
 ## Conseil d'Administration
 
