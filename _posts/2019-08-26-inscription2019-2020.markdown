@@ -72,7 +72,7 @@ début de demi-journée, 9h30 le matin ou 14h l'après midi.
 |:--------:|:-------------:|:----:|
 | 14h00 - 15h00 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">1 place libre</span> |
 | 15h00 - 16h00 | 7 - 10 ans |   |
-| 16h15 - 17h15 | 4 - 6 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
+| 16h15 - 17h15 | 4 - 6 ans | <span style="color: #B7222E; font-weight:bold;">2 places libres</span> |
 |:--------:|:-------------:|:----:|
 | 17h15 - 18h15 | 11 ans et plus | collège / Lycée |
 {: .table }
