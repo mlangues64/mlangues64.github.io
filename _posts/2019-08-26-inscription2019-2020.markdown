@@ -66,7 +66,7 @@ début de demi-journée, 9h30 le matin ou 14h l'après midi.
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
-| 9h30 - 10h30 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">1 place libre</span> |
+| 9h30 - 10h30 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
 | 10h30 - 11h30 | 4 - 6 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
 | 11h30 - 12h30 | 7 - 10 ans | <span style="color: #B7222E; font-weight:bold;">COMPLET</span> |
 |:--------:|:-------------:|:----:|
