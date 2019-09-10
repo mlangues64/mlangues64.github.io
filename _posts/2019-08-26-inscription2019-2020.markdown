@@ -97,8 +97,8 @@ Saisissez votre niveau (A1, A2, B1, B2, C1 ou C2) dans le formulaire d'inscripti
 
 | Jours | horaires | places |
 |:--------:|:-------------:|:----:|
-| Mercredi | 18h30 - 20h00  | 8 places |
-| Vendredi | 20h00 - 21h30  | 8 places |
+| Mercredi | 18h30 - 20h00  | <span style="color: #B7222E; font-weight:bold;">1 place libre</span> |
+| Vendredi | 20h00 - 21h30  | 5 places libres |
 {: .table }
 
 ## Tarifs
