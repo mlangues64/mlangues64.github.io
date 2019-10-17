@@ -6,7 +6,7 @@ comments: false
 author: M'Langues
 ---
 
-L'association M'Langues et l'APE de l'écolde de Serres-Morlaàs vous proposent
+L'association M'Langues et l'APE de l'école de Serres-Morlaàs vous proposent
 des ateliers d'anglais pour les enfants de 6 à 10 ans de l'école de Serres-Morlaàs.
 
 ## Détails pratiques
@@ -26,7 +26,7 @@ devrez accepter lors de l'inscription.
 Pour participer aux activités, chaque famille doit adhérer à l'association. Le
 montant de la cotisation annuelle est de 10€ **par famille**.
 
-Le tarif des ateliers pour la période de Novembre 2019 à Avril 2020 est de 100€
+Le tarif des ateliers pour la période de Novembre 2019 à Avril 2020 est de 115€
 par enfant. Le règlement peut être échelonné sur plusieurs mois.
 
 ## Formulaire d'inscription
