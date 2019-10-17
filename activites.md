@@ -5,7 +5,7 @@ longtitle: Activités de l'association
 permalink: /activites/
 ---
 
-Pour connaître les horaires et les tarifs, consulter la page relative aux
+<!-- Pour connaître les horaires et les tarifs, consulter la page relative aux
 inscription :
 
 <p class="text-center">
@@ -16,6 +16,8 @@ inscription :
 </p>
 
 ---
+
+-->
 
 ## Découverte et approfondissement de l'anglais
 
