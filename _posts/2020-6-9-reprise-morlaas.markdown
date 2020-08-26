@@ -6,7 +6,8 @@ comments: false
 author: M'Langues
 ---
 
-Après discussion, la mairie nous autorise à reprendre les ateliers pour enfants 
+Après discussion, la mairie nous autorise à reprendre les ateliers pour enfants
+et les cours des adultes. 
 à condition bien sûr de respecter un protocole sanitaire. De plus, les ateliers 
 ne pourront plus se dérouler dans l'enceinte de l'école. La mairie nous prête la 
 salle du cyclo (club cycliste de Morlaàs), elle se situe place de la Hourquie, à 
