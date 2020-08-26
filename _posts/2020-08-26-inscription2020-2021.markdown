@@ -1,0 +1,145 @@
+---
+layout: post
+title: Saison 2020-2021
+excerpt: Informations et inscriptions aux activités pour la saison 2019-2020
+comments: false
+author: M'Langues
+---
+
+Après une saison 2019-2020 marquée par le confinement 
+les inscriptions pour l'année 2020-2021 sont ouvertes !
+
+Sur cette page, vous trouverez : les dates importantes de cette saison 2020-2021,
+les horaires des activités enfants, adolescents et adultes, les tarifs, le lieu
+des activités et [le formulaire d'inscription qui est disponible à la fin de la page.](#formulaire-dinscription)
+Veuillez prendre connaissance du
+[règlement intérieur de l'association]({{ site.baseurl }}/reglement) que vous
+devrez accepter lors de l'inscription.
+
+---
+
+Sommaire :
+
+1. [Dates importantes](#dates-importantes)
+2. [Activités enfants et adolescents](#activités-enfants-et-adolescents)
+3. [Ateliers adultes](#ateliers-adultes)
+4. [Tarifs](#tarifs)
+5. [Réduction suite à la pandémie de Covid-19](#réduction-suite-à-la-pandémie-de-covid-19)
+6. [Lieu des activités](#lieu-des-activités)
+7. [Formulaire d'inscription 2019](#formulaire-dinscription)
+
+---
+
+## Dates importantes
+
+Voici quelques dates à noter dans vos agendas. L'agenda de l'année est disponible
+en permanence sur le site de l'association : [voir agenda (en haut à droite)]({{ site.baseurl }}/agenda).
+
+* **Forum des associations :** Samedi 12 Septembre 2020 de 9h à 14h, salle polyvalente, Morlaàs
+* **Assemblée Générale :**  XX Septembre 2020, 20h30, Mairie, place Sainte Foy, Morlaàs
+* **Début des activités :** Mercredi 16 Septembre 2020
+* **Fin des activités :** Mercredi 23 Juin 2020
+
+## Activités enfants et adolescents
+
+Les activités pour les enfants se dérouleront les mercredis, toute la journée,
+dans la [bibliothèque de l'école Jean Moulin à Morlàas](#lieu-des-activités).
+Elles commenceront le mercredi 16 septembre 2020.
+Trois tranches d'âge sont proposées : 4 - 6 ans (MS/GS - CP), 7 - 10 ans (primaire)
+et 10 - 18 ans (Collège/Lycée). Nous constituerons les groupes au mieux en 
+fonction premièrement de votre choix ainsi que de l'âge des enfants et de leur
+participation aux ateliers de l'année précédente.
+
+Les séances seront limitées à 8 enfants maximum et ouvriront à condition qu'un
+nombre minimum d'enfants soient inscrits.
+
+Les activités sont ouvertes aux enfants inscrits au centre aéré
+[Les aventuriers, à Morlaàs](http://www.cc-paysdemorlaas.fr/index.php/enfance-jeunesse/les-aventuriers). Pour être en phase avec le rythme des activités du
+centre aéré, nous vous conseillons d'inscrire votre enfant sur les ateliers en
+début de demi-journée, 9h30 le matin ou 14h l'après midi.
+
+#### Ateliers le mercredi :
+
+| Horaires | Tranche d'âge |      |
+|:--------:|:-------------:|:----:|
+| 9h30 - 10h30  | 7 - 10 ans | 8 places disponibles |
+| 10h30 - 11h30 | 4 - 6 ans  | 8 places disponibles |
+| 11h30 - 12h30 | 7 - 10 ans | 8 places disponibles |
+|:--------:|:-------------:|:----:|
+| 14h00 - 15h00 | 7 - 10 ans | 8 places disponibles |
+| 15h00 - 16h00 | 7 - 10 ans | 8 places disponibles |
+| 16h00 - 17h00 | 4 - 6 ans | 8 places disponibles |
+|:--------:|:-------------:|:----:|
+| 17h15 - 18h15 | 11 ans et plus | collège / Lycée 8 places|
+{: .table }
+
+
+## Ateliers adultes
+
+Les ateliers dédiés aux adultes se dérouleront en soirée, les mercredis et durent
+1h30. Deux groupes sont proposés. Lors de l'inscription, vous serez invités à
+évaluer votre niveau en répondant à un formulaire en ligne conçu par l'Université
+de Cambridge : [formulaire pour tester son niveau](https://www.cambridgeenglish.org/fr/test-your-english/).
+À l'issu du test, vous obtiendrez une indication de votre niveau selon le
+[Cadre européen commun de référence pour les langues (CECRL)](http://www.cambridgeenglish.org/fr/exams-and-qualifications/cefr/).
+Saisissez votre niveau (A1, A2, B1, B2, C1 ou C2) dans le formulaire d'inscription.
+
+Vous pourrez également rencontrer Ann, notre intervenante, lors du forum des 
+associations.
+
+| Jours | horaires | places |
+|:--------:|:-------------:|:----:|
+| Mercredi | 18h30 - 20h00  | 8 places disponibles |
+| Mercredi | 20h00 - 21h30  | 8 places disponibles |
+{: .table }
+
+## Tarifs
+
+Pour participer aux activités, chaque famille doit adhérer à l'association. Le
+montant de la cotisation annuelle est de 10€ **par famille**. 
+
+Les tarifs des activités, identiques à l'année précédente, sont les suivants :
+
+* Enfants : 150 € 
+* adolescents : 150 €
+* Adultes : 240 €
+
+Cette année, une réduction de 15 € est accordée à partir du deuxième enfant et 
+de 30 € à partir du troisème enfant.
+
+Les inscriptions seront prises en compte dans l'ordre chronologique et validées
+lorsque le dossier sera complet : le formulaire d'inscription doit avoir été rempli
+**pour chaque participant** et vous devez payer l'adhésion à l'association
+ainsi que les activités auxquelles vous souhaitez participer. Le règlement peut
+être échelonné sur plusieurs mois.
+
+## Réduction suite à la pandémie de Covid-19
+
+Concernant le budjet de l'année 2019-2020, par solidarité, nous avons fait le 
+choix continuer de rémunérer les intervenantes. Par ailleurs, nous avons
+décidé de faire une réduction de 20 € sur le paiement des activités de chaque
+adhérent qui était inscrit durant la décision 2019-2020.
+
+Pour plus de détails, nous vous invitons à participer à l'assemblée générale
+qui aura lieu le XX septembre 2020, à la mairie de Morlaàs.
+
+## Lieu des activités
+
+Les ateliers et cours d'anglais auront lieu dans la bibliothèque de l'école
+Jean Moulin à Morlaàs. L'accès se fait par la rue piétonne entre l'école
+primaire (Jean Moulin) et l'école maternelle.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/mlangues_358859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+
+## Formulaire d'inscription
+
+Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
+formulaire ci-dessous. Nous vous rappelons que vous devez remplir
+**un formulaire pour chaque participant**.
+
+<p class="text-center">
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="far fa-check-circle" aria-hidden="true"></span>
+        &nbsp;Inscriptions 2020-2021
+    </a>
+</p>
