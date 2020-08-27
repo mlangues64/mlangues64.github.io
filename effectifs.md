@@ -5,4 +5,11 @@ title: Effectifs
 
 # Effectifs en temps réel
 
-<iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRciO0icTxHcKJ4E_V9qsu4ZI-xgxmfGfb7Qgg0HSJXUXbTGtqlry2A8XgFWtbV0lJdwCoD-qUdowvM/pubhtml?gid=196768118&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+## Effectifs enfants
+
+<iframe width="100%" height="300px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQn8FfwuNOVxE7f9fYrytmqs8gw3HwA2s1akFAXyLFzrziQg_E5jjAXtb1vnL_QBqtJWU0q9o0v8iaU/pubhtml?gid=608813133&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+## Effectifs adultes
+
+<iframe width="100%" height="200px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQn8FfwuNOVxE7f9fYrytmqs8gw3HwA2s1akFAXyLFzrziQg_E5jjAXtb1vnL_QBqtJWU0q9o0v8iaU/pubhtml?gid=2094202767&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
