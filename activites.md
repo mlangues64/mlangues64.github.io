@@ -5,19 +5,17 @@ longtitle: Activités de l'association
 permalink: /activites/
 ---
 
-<!-- Pour connaître les horaires et les tarifs, consulter la page relative aux
+Pour connaître les horaires et les tarifs, consulter la page relative aux
 inscription :
 
 <p class="text-center">
-    <a href="{{ site.baseurl }}{% post_url 2019-08-26-inscription2019-2020 %}" role="button" class="btn btn-lg btn-success" aria-label="Remove">
+    <a href="{{ site.baseurl }}{% post_url 2020-08-26-inscription2020-2021 %}" role="button" class="btn btn-lg btn-success" aria-label="Remove">
         <span class="far fa-check-circle" aria-hidden="true"></span>
-        &nbsp;Inscriptions 2019-2020
+        &nbsp;Inscriptions 2020-2021
     </a>
 </p>
 
 ---
-
--->
 
 ## Découverte et approfondissement de l'anglais
 

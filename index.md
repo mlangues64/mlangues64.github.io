@@ -22,3 +22,21 @@ pour les enfants à partir de 4 ans, pour les adolescents et pour les adultes.
 N'hésitez pas à nous [contacter](/contact/) nous vous répondrons aussi vite que
 possible. Vous pouvez égalment consulter notre
 [page Facebook](https://www.facebook.com/MLangues/).
+
+---
+
+### Inscriptions 2020-2021
+
+Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
+formulaire ci-dessous **pour chaque participant**. Consultez
+la page [Saison 2020-2021](https://mlangues64.github.io/2020/08/26/inscription2020-2021.html)
+pour plus d'informations.
+
+<p class="text-center">
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="far fa-check-circle" aria-hidden="true"></span>
+        &nbsp;Inscriptions 2020-2021
+    </a>
+</p>
+
+---
