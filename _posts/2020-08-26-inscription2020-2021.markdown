@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saison 2020-2021
-excerpt: Informations et inscriptions aux activités pour la saison 2019-2020
+excerpt: Informations et inscriptions aux activités pour la saison 2020-2021
 comments: false
 author: M'Langues
 ---
@@ -26,7 +26,7 @@ Sommaire :
 4. [Tarifs](#tarifs)
 5. [Réduction suite à la pandémie de Covid-19](#réduction-suite-à-la-pandémie-de-covid-19)
 6. [Lieu des activités](#lieu-des-activités)
-7. [Formulaire d'inscription 2019](#formulaire-dinscription)
+7. [Formulaire d'inscription 2020](#formulaire-dinscription)
 
 ---
 
@@ -36,14 +36,14 @@ Voici quelques dates à noter dans vos agendas. L'agenda de l'année est disponi
 en permanence sur le site de l'association : [voir agenda (en haut à droite)]({{ site.baseurl }}/agenda).
 
 * **Forum des associations :** Samedi 12 Septembre 2020 de 9h à 14h, salle polyvalente, Morlaàs
-* **Assemblée Générale :**  XX Septembre 2020, 20h30, Mairie, place Sainte Foy, Morlaàs
+* **Assemblée Générale :**  Mardi 13 Septembre 2020, 20h30, Mairie, place Sainte Foy, Morlaàs
 * **Début des activités :** Mercredi 16 Septembre 2020
-* **Fin des activités :** Mercredi 23 Juin 2020
+* **Fin des activités :** Mercredi 23 Juin 2021
 
 ## Activités enfants et adolescents
 
 Les activités pour les enfants se dérouleront les mercredis, toute la journée,
-dans la [bibliothèque de l'école Jean Moulin à Morlàas](#lieu-des-activités).
+dans la [bibliothèque de l'école Jean Moulin à Morlaàs](#lieu-des-activités).
 Elles commenceront le mercredi 16 septembre 2020.
 Trois tranches d'âge sont proposées : 4 - 6 ans (MS/GS - CP), 7 - 10 ans (primaire)
 et 10 - 18 ans (Collège/Lycée). Nous constituerons les groupes au mieux en 
@@ -105,7 +105,7 @@ Les tarifs des activités, identiques à l'année précédente, sont les suivant
 * Adultes : 240 €
 
 Cette année, une réduction de 15 € est accordée à partir du deuxième enfant et 
-de 30 € à partir du troisème enfant.
+de 30 € à partir du troisième enfant.
 
 Les inscriptions seront prises en compte dans l'ordre chronologique et validées
 lorsque le dossier sera complet : le formulaire d'inscription doit avoir été rempli
@@ -115,13 +115,13 @@ ainsi que les activités auxquelles vous souhaitez participer. Le règlement peu
 
 ## Réduction suite à la pandémie de Covid-19
 
-Concernant le budjet de l'année 2019-2020, par solidarité, nous avons fait le 
-choix continuer de rémunérer les intervenantes. Par ailleurs, nous avons
+Concernant le budget de l'année 2019-2020, par solidarité, nous avons fait le 
+choix de continuer de rémunérer les intervenantes. Par ailleurs, nous avons
 décidé de faire une réduction de 20 € sur le paiement des activités de chaque
-adhérent qui était inscrit durant la décision 2019-2020.
+adhérent qui était inscrit durant la saison 2019-2020.
 
 Pour plus de détails, nous vous invitons à participer à l'assemblée générale
-qui aura lieu le XX septembre 2020, à la mairie de Morlaàs.
+qui aura lieu le 13 septembre 2020, à la mairie de Morlaàs.
 
 ## Lieu des activités
 
