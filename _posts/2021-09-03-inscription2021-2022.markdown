@@ -1,0 +1,143 @@
+---
+layout: post
+title: Saison 2021-2022
+excerpt: Informations et inscriptions aux activités pour la saison 2021-2022
+comments: false
+author: M'Langues
+---
+
+Les inscriptions pour l'année 2021-2022 sont ouvertes !
+
+Sur cette page, vous trouverez : les dates importantes de cette saison 2021-2022,
+les horaires des activités enfants, adolescents et adultes, les tarifs, le lieu
+des activités et [le formulaire d'inscription qui est disponible à la fin de la page.](#formulaire-dinscription)
+Veuillez prendre connaissance du
+[règlement intérieur de l'association]({{ site.baseurl }}/reglement) que vous
+devrez accepter lors de l'inscription.
+
+---
+
+Sommaire :
+
+1. [Dates importantes](#dates-importantes)
+2. [Activités enfants et adolescents](#activités-enfants-et-adolescents)
+3. [Ateliers adultes](#ateliers-adultes)
+4. [Tarifs](#tarifs)
+5. [Lieu des activités](#lieu-des-activités)
+6. [Formulaire d'inscription 2021](#formulaire-dinscription)
+
+---
+
+## Dates importantes
+
+Voici quelques dates à noter dans vos agendas. L'agenda de l'année est disponible
+en permanence sur le site de l'association : [voir agenda (en haut à droite)]({{ site.baseurl }}/agenda).
+
+* **Forum des associations :** Samedi 4 Septembre 2021 de 9h à 13h, salle polyvalente, Morlaàs
+* **Découverte des activités :** Mercredi 22 Septembre 2021, 14h - 17h
+* **Début des activités :** Mercredi 29 Septembre 2021
+* **Fin des activités :** Mercredi 23 Juin 2021
+
+## Activités enfants et adolescents
+
+Les activités pour les enfants se dérouleront les mercredis, toute la journée,
+dans la [bibliothèque de l'école Jean Moulin à Morlaàs](#lieu-des-activités).
+
+Le mercredi 22 Septembre après midi sera dédié à des sessions de découverte
+de l'activité. Les activités démarreront le mercredi suivant, le 29 septembre.
+
+Trois tranches d'âge sont proposées : 4 - 8 ans (MS/GS - CE2), 9 - 11 ans (CM et
+préparation à l'entrée en 6ème) et 11 - 18 ans (Collège/Lycée). 
+Nous constituerons les groupes au mieux en 
+fonction premièrement de votre choix ainsi que de l'âge des enfants et de leur
+participation aux ateliers de l'année précédente.
+
+Les séances seront limitées à 8 enfants maximum et ouvriront à condition qu'un
+nombre minimum d'enfants soient inscrits.
+
+Les activités sont ouvertes aux enfants inscrits au centre aéré
+[Les aventuriers, à Morlaàs](http://www.cc-paysdemorlaas.fr/index.php/enfance-jeunesse/les-aventuriers). Pour être en phase avec le rythme des activités du
+centre aéré, nous vous conseillons d'inscrire votre enfant sur les ateliers en
+début de demi-journée, 9h ou 10h le matin ou 14h l'après midi.
+
+#### Ateliers le mercredi :
+
+| Horaires | Tranche d'âge |      |
+|:--------:|:-------------:|:----:|
+| 9h - 10h  | 4 - 8 ans | 8 places disponibles |
+| 10h - 11h | 9 - 11 ans  | 8 places disponibles |
+| 11h - 12h | 9 - 11 ans | 8 places disponibles |
+|:--------:|:-------------:|:----:|
+| 14h00 - 15h00 | 9 - 11 ans | 8 places disponibles |
+| 15h00 - 16h00 | 4 - 8 ans | 8 places disponibles |
+| 16h00 - 17h00 | 4 - 8 ans | 8 places disponibles |
+|:--------:|:-------------:|:----:|
+| 17h15 - 18h15 | 11 ans et plus | collège / Lycée 8 places|
+{: .table }
+
+
+## Ateliers adultes
+
+Les ateliers dédiés aux adultes se dérouleront en soirée, les mercredis et durent
+1h30. Deux groupes sont proposés. Lors de l'inscription, vous serez invités à
+évaluer votre niveau en répondant à un formulaire en ligne conçu par l'Université
+de Cambridge : [formulaire pour tester son niveau](https://www.cambridgeenglish.org/fr/test-your-english/).
+À l'issu du test, vous obtiendrez une indication de votre niveau selon le
+[Cadre européen commun de référence pour les langues (CECRL)](http://www.cambridgeenglish.org/fr/exams-and-qualifications/cefr/).
+Saisissez votre niveau (A1, A2, B1, B2, C1 ou C2) dans le formulaire d'inscription.
+
+Vous pourrez également rencontrer Ann, notre intervenante, lors du forum des 
+associations.
+
+| Jours | horaires | places |
+|:--------:|:-------------:|:----:|
+| Mercredi | 18h30 - 20h00  | 8 places disponibles |
+| Mercredi | 20h00 - 21h30  | 8 places disponibles |
+{: .table }
+
+## Tarifs
+
+Pour cette année 2021-2022, nous avons décidé de maintenir les tarifs des 
+années précédentes. Néanmoins, en raison des deux années écoulées sous la
+pandémie de Covid-19, une réduction de 50% du montant du tarifs des activités
+sera appliquée aux adhérents des années 2020-2021 ou 2O19-2020.
+
+Les tarifs des activités, sont les suivants :
+
+* Enfants : 150 € (75 € si réinscription)
+* adolescents : 150 € (75 € si réinscription)
+* Adultes : 240 € (120 € si réinscription)
+
+Pour participer aux activités, chaque famille doit adhérer à l'association. Le
+montant de la cotisation annuelle est de 10€ **par famille**. 
+
+Une réduction de 15 € est accordée à partir du deuxième enfant et 
+de 30 € à partir du troisième enfant (hors réinscriptions en raison du tarif
+réduit lié au covid).
+
+Les inscriptions seront prises en compte dans l'ordre chronologique et validées
+lorsque le dossier sera complet : le formulaire d'inscription doit avoir été rempli
+**pour chaque participant** et vous devez payer l'adhésion à l'association
+ainsi que les activités auxquelles vous souhaitez participer. Le règlement peut
+être échelonné sur plusieurs mois.
+
+## Lieu des activités
+
+Les ateliers et cours d'anglais auront lieu dans la bibliothèque de l'école
+Jean Moulin à Morlaàs. L'accès se fait par la rue piétonne entre l'école
+primaire (Jean Moulin) et l'école maternelle.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/mlangues_358859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+
+## Formulaire d'inscription
+
+Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
+formulaire ci-dessous. Nous vous rappelons que vous devez remplir
+**un formulaire pour chaque participant**.
+
+<p class="text-center">
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="far fa-check-circle" aria-hidden="true"></span>
+        &nbsp;Inscriptions 2021-2022
+    </a>
+</p>
