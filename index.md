@@ -25,11 +25,11 @@ possible. Vous pouvez égalment consulter notre
 
 ---
 
-### Inscriptions 2020-2021
+### Inscriptions 2021-2022
 
 Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
 formulaire ci-dessous **pour chaque participant**. Consultez
-la page [Saison 2020-2021](https://mlangues64.github.io/2020/08/26/inscription2020-2021.html)
+la page [Saison 2021-2022](https://mlangues64.github.io/2021/09/03/inscription2021-2022.html)
 pour plus d'informations.
 
 <p class="text-center">
