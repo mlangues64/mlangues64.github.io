@@ -64,8 +64,8 @@ début de demi-journée, 9h ou 10h le matin ou 14h l'après midi.
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
-| 9h - 10h  | 4 - 8 ans | 8 places disponibles |
-| 10h - 11h | 9 - 11 ans  | 8 places disponibles |
+| 9h - 10h  | 9 - 11 ans | 8 places disponibles |
+| 10h - 11h | 4 - 8 ans  | 8 places disponibles |
 | 11h - 12h | 9 - 11 ans | 8 places disponibles |
 |:--------:|:-------------:|:----:|
 | 14h00 - 15h00 | 9 - 11 ans | 8 places disponibles |
@@ -99,8 +99,8 @@ associations.
 
 Pour cette année 2021-2022, nous avons décidé de maintenir les tarifs des 
 années précédentes. Néanmoins, en raison des deux années écoulées sous la
-pandémie de Covid-19, une réduction de 50% du montant du tarifs des activités
-sera appliquée aux adhérents des années 2020-2021 ou 2O19-2020.
+pandémie de Covid-19, une réduction du montant du tarifs des activités
+sera appliquée aux adhérents des années 2020-2021 ou 2O19-2020 qui se réinscrivent.
 
 Les tarifs des activités, sont les suivants :
 
