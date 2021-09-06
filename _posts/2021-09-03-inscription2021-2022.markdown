@@ -64,13 +64,13 @@ début de demi-journée, 9h ou 10h le matin ou 14h l'après midi.
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
-| 9h - 10h  | 9 - 11 ans | 4 places disponibles |
-| 10h - 11h | 4 - 8 ans  | 5 places disponibles |
+| 9h - 10h  | 9 - 11 ans | 1 places disponibles |
+| 10h - 11h | 4 - 8 ans  | 3 places disponibles |
 | 11h15 - 12h15 | Age à définir | 8 places disponibles |
 |:--------:|:-------------:|:----:|
 | 13h30 - 14h30 | 4 - 8 ans | 7 places disponibles |
 | 14h30 - 15h30 | 9 - 11 | 8 places disponibles |
-| 15h45 - 16h45 | 11 ans et plus | 3 places disponibles |
+| 15h45 - 16h45 | 11 ans et plus | 4 places disponibles |
 |:--------:|:-------------:|:----:|
 | 17h15 - 18h15 | Age à définr | 8 places|
 {: .table }
