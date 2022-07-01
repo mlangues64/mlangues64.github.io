@@ -1,0 +1,148 @@
+---
+layout: post
+title: Saison 2022-2023
+excerpt: Informations et inscriptions aux activités pour la saison 2022-2023
+comments: false
+author: M'Langues
+---
+
+Les inscriptions pour l'année 2022-2023 sont ouvertes !
+
+Sur cette page, vous trouverez : les dates importantes de cette saison 2022-2023,
+les horaires des activités enfants, adolescents et adultes, les tarifs, le lieu
+des activités et [le formulaire d'inscription qui est disponible à la fin de la page.](#formulaire-dinscription)
+Veuillez prendre connaissance du
+[règlement intérieur de l'association]({{ site.baseurl }}/reglement) que vous
+devrez accepter lors de l'inscription.
+
+---
+
+Sommaire :
+
+1. [Dates importantes](#dates-importantes)
+2. [Activités enfants et adolescents](#activités-enfants-et-adolescents)
+3. [Ateliers adultes](#ateliers-adultes)
+4. [Tarifs](#tarifs)
+5. [Lieu des activités](#lieu-des-activités)
+6. [Formulaire d'inscription 2021](#formulaire-dinscription)
+
+---
+
+## Dates importantes
+
+Voici quelques dates à noter dans vos agendas. L'agenda de l'année est disponible
+en permanence sur le site de l'association : [voir agenda (en haut à droite)]({{ site.baseurl }}/agenda).
+
+* **Forum des associations :** Samedi 3 Septembre 2022 de 9h à 13h, salle polyvalente, Morlaàs
+* **Découverte des activités :** Mercredi 7 Septembre 2022, 14h - 17h ([Inscriptions gratuites mais obligatoires]())
+* **Début des activités :** Mercredi 14 Septembre 2022
+* **Fin des activités :** Mercredi 21 Juin 2023
+
+## Activités enfants et adolescents
+
+Les activités pour les enfants se dérouleront les mercredis, toute la journée,
+dans la [bibliothèque de l'école Jean Moulin à Morlaàs](#lieu-des-activités).
+
+Le mercredi 7 Septembre après midi sera dédié à des sessions de découverte
+de l'activité. Les activités démarreront le mercredi suivant, le 14 septembre.
+
+Trois tranches d'âge sont proposées : 4 - 8 ans (MS/GS - CE2), 9 - 11 ans (CM et
+préparation à l'entrée en 6ème) et 11 - 18 ans (Collège/Lycée). 
+Nous constituerons les groupes au mieux en 
+fonction premièrement de votre choix ainsi que de l'âge des enfants et de leur
+participation aux ateliers de l'année précédente.
+
+Les séances seront limitées à 8 enfants maximum et ouvriront à condition qu'un
+nombre minimum d'enfants soient inscrits.
+
+Les activités sont ouvertes aux enfants inscrits au centre aéré
+[Les aventuriers, à Morlaàs](http://www.cc-paysdemorlaas.fr/index.php/enfance-jeunesse/les-aventuriers). Pour être en phase avec le rythme des activités du
+centre aéré, nous vous conseillons d'inscrire votre enfant sur les ateliers en
+début de demi-journée, 9h ou 10h le matin ou 14h l'après midi.
+
+#### Ateliers le mercredi :
+
+| Horaires | Tranche d'âge |      |
+|:--------:|:-------------:|:----:|
+| 9h - 10h  | 9 - 11 ans | 8 places disponibles |
+| 10h - 11h | 4 - 8 ans  | 8 places disponibles |
+| 11h15 - 12h15 | 4 - 8 ans | 8 places disponibles |
+|:--------:|:-------------:|:----:|
+| 13h30 - 14h30 | 4 - 8 ans | 8 places disponibles |
+| 14h30 - 15h30 | 9 - 11 | 8 places disponibles |
+| 15h45 - 16h45 | 11 ans et plus | 8 places disponibles |
+|:--------:|:-------------:|:----:|
+{: .table }
+
+
+## Ateliers adultes
+
+Les ateliers dédiés aux adultes se dérouleront en soirée, les mercredis et durent
+1h30. Deux groupes sont proposés. Lors de l'inscription, vous serez invités à
+évaluer votre niveau en répondant à un formulaire en ligne conçu par l'Université
+de Cambridge : [formulaire pour tester son niveau](https://www.cambridgeenglish.org/fr/test-your-english/).
+À l'issu du test, vous obtiendrez une indication de votre niveau selon le
+[Cadre européen commun de référence pour les langues (CECRL)](http://www.cambridgeenglish.org/fr/exams-and-qualifications/cefr/).
+Saisissez votre niveau (A1, A2, B1, B2, C1 ou C2) dans le formulaire d'inscription.
+
+Vous pourrez également rencontrer Ann, notre intervenante, lors du forum des 
+associations.
+
+| Jours | horaires | places |
+|:--------:|:-------------:|:----:|
+| Mercredi | 18h30 - 20h00  | 8 places disponibles |
+| Mercredi | 20h00 - 21h30  | 8 places disponibles |
+{: .table }
+
+## Tarifs
+
+Pour cette année 2022-2023, nous avons décidé de maintenir les tarifs des 
+années précédentes.
+
+Les tarifs des activités, sont les suivants :
+
+* Enfants : 150 € 
+* adolescents : 150 € 
+* Adultes : 240 € 
+
+Pour participer aux activités, chaque famille doit adhérer à l'association. Le
+montant de la cotisation annuelle est de 10€ **par famille**. 
+
+Une réduction de 15 € est offerte à partir du deuxième enfant et 
+de 30 € à partir du troisième enfant.
+
+Les inscriptions seront prises en compte dans l'ordre chronologique et validées
+lorsque le dossier sera complet : le formulaire d'inscription doit avoir été rempli
+**pour chaque participant** et vous devez payer l'adhésion à l'association
+ainsi que les activités auxquelles vous souhaitez participer. Le règlement peut
+être échelonné sur plusieurs mois.
+
+Le règlement de votre cotisation se fait par carte bancaire sur
+le site HelloAsso. Vous aurez deux options : paiement en une fois ou en
+trois fois. Vous pouvez effectuer un règlement par famille en sélectionnant
+plusieurs options. N'oubliez pas de choisir la cotisation annuelle de 10€.
+
+<iframe id="haWidget" allowtransparency="true" src="" style="width:100%;height:70px;border:none;"></iframe><div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso (ouvre bientôt !)</a></div>
+
+<!-- <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/m-langues/adhesions/inscriptions-2021-2022-1/widget-bouton" style="width:100%;height:70px;border:none;"></iframe><div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div> -->
+
+## Lieu des activités
+
+Les ateliers et cours d'anglais auront lieu dans la bibliothèque de l'école
+Jean Moulin à Morlaàs. L'accès se fait par la rue piétonne entre l'école
+primaire (Jean Moulin) et l'école maternelle.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/mlangues_358859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+
+## Formulaire d'inscription
+
+Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
+formulaire ci-dessous. Nous vous rappelons que vous devez remplir
+**un formulaire pour chaque participant**.
+
+<p class="text-center">
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="far fa-check-circle" aria-hidden="true"></span>
+        &nbsp;Inscriptions 2022-2023
+    </a>
+</p>

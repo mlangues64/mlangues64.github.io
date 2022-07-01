@@ -3,4 +3,6 @@ layout: page
 title: Inscriptions
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiQTtKqKb1qCklly2pxWg1Btbr0DCspp7y_BB6ZElrgtGTIQ/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Chargement...</iframe>
+## Ouverture des inscriptions imminente
+
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6CXXGwM65VjXHDTUP972g2H7TIlBoHxDtz5OSsWxjoyYqWw/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Chargement...</iframe> -->

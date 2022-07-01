@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Stage de rentrée : Août 2022"
+excerpt: "Stage de rentrée les 29, 30 et 31 Août 2022 : Informations et inscriptions"
+comments: false
+author: M'Langues
+---
+
+Avant la reprise de cette nouvelle saison 2022-2022, 
+nous organisons un stage de rentrée les 29, 30 et 31 Août 2022.
+
+Le stage sera animé par Harriet !
+
+## Organisation du stage
+
+Le stage se déroulera sur 3 demi-journées les 29, 30 et 31 Août. Deux
+groupes seront ouverts :
+* un groupe en matinée : 9h - 12h
+* un groupe l'après-midi : 14h - 17h
+
+Le tarif est de 50€ pour les 3 demi-journées. Le paiement s'effectuera
+sur le site [HelloAsso](https://www.helloasso.com/) au plus tard au
+démarrage du stage.
+
+Lors de l'inscription, nous vous demandons d'indiquer vos disponibilités
+en précisant si vous n'êtes disponibles que le matin, que l'après midi
+ou les deux. Cela nous permettra de constituer deux groupes en fonction
+de l'âge et du niveau des participants en visant
+* un groupe sur le cycle 3 pour la préparation au collège
+* un groupe de perfectionnement et d'expression orale pour adolescents
+
+Chaque groupe est limité à 8 participants maximum. Les inscriptions
+sont ouvertes jusqu'au 22 août. 
+
+
+<p class="text-center">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWm2j389RWPXLKlgkvyqd1vH5OlVZ0CpWIx9NL_O0VO1gwYw/viewform?usp=sf_link" role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="far fa-check-circle" aria-hidden="true"></span>
+        &nbsp;Formulaire d'inscription pour le stage de rentrée
+    </a>
+</p>
+
+
+## Inscriptions 
+
+En parallèle, les inscriptions sont ouvertes pour nos ateliers réguliers
+pour l'année 2022-2023. Vous pouvez retrouver toutes les informations sur
+la page dédiée aux 
+[activités et inscriptions pour l'année 2022-2023](https://mlangues64.github.io/2022/07/03/inscription2022-2023.html).
+
+Nous aurons comme chaque année le plaisir de vous retrouver pour le
+forum des associations, le samedi 3 septembre 2022, de 9h à 13h à la
+salle polyvalente de Morlaàs.
+
+## Lieu du stage
+
+Le stage se déroulera dans la bibliothèque de l'école
+Jean Moulin à Morlaàs. L'accès se fait par la rue piétonne entre l'école
+primaire (Jean Moulin) et l'école maternelle.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/mlangues_358859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
