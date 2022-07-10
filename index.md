@@ -35,7 +35,7 @@ pour plus d'informations.
 <p class="text-center">
     <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
         <span class="far fa-check-circle" aria-hidden="true"></span>
-        &nbsp;Inscriptions 2021-2022
+        &nbsp;Inscriptions 2022-2023
     </a>
 </p>
 
