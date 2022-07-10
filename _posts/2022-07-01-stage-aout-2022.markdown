@@ -13,7 +13,9 @@ inclus).
 
 Le stage sera animé par Harriet !
 
+<p style="text-align:center;">
 <img src="/assets/img/StageFlyer.png" style="width:80%;" />
+</p>
 
 ## Organisation du stage
 
