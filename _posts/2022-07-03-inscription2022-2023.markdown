@@ -34,8 +34,8 @@ Voici quelques dates à noter dans vos agendas. L'agenda de l'année est disponi
 en permanence sur le site de l'association : [voir agenda (en haut à droite)]({{ site.baseurl }}/agenda).
 
 * **Forum des associations :** Samedi 3 Septembre 2022 de 9h à 13h, salle polyvalente, Morlaàs
-* **Découverte des activités :** Mercredi 7 Septembre 2022, 14h - 17h ([Inscriptions gratuites mais obligatoires]())
-* **Début des activités :** Mercredi 14 Septembre 2022
+* **Découverte des activités :** Mercredi 14 Septembre 2022, 14h - 17h [Inscriptions gratuites mais obligatoires](https://doodle.com/meeting/participate/id/b4R95lJe)
+* **Début des activités :** Mercredi 21 Septembre 2022
 * **Fin des activités :** Mercredi 21 Juin 2023
 
 ## Activités enfants et adolescents
@@ -43,14 +43,16 @@ en permanence sur le site de l'association : [voir agenda (en haut à droite)]({
 Les activités pour les enfants se dérouleront les mercredis, toute la journée,
 dans la [bibliothèque de l'école Jean Moulin à Morlaàs](#lieu-des-activités).
 
-Le mercredi 7 Septembre après midi sera dédié à des sessions de découverte
-de l'activité. Les activités démarreront le mercredi suivant, le 14 septembre.
+Le mercredi 14 Septembre après midi sera dédié à des sessions de découverte
+de l'activité. Les activités démarreront le mercredi suivant, le 21 septembre.
 
 Trois tranches d'âge sont proposées : 4 - 8 ans (MS/GS - CE2), 9 - 11 ans (CM et
 préparation à l'entrée en 6ème) et 11 - 18 ans (Collège/Lycée). 
+Les tranches d'ages correspondent aux groupes de l'année précédente.
 Nous constituerons les groupes au mieux en 
 fonction premièrement de votre choix ainsi que de l'âge des enfants et de leur
-participation aux ateliers de l'année précédente.
+participation aux ateliers de l'année précédente. Choisissez le créneau
+qui vous convient le mieux. N'hésitez pas à nous contacter si vous avez une question.
 
 Les séances seront limitées à 8 enfants maximum et ouvriront à condition qu'un
 nombre minimum d'enfants soient inscrits.
@@ -58,17 +60,17 @@ nombre minimum d'enfants soient inscrits.
 Les activités sont ouvertes aux enfants inscrits au centre aéré
 [Les aventuriers, à Morlaàs](http://www.cc-paysdemorlaas.fr/index.php/enfance-jeunesse/les-aventuriers). Pour être en phase avec le rythme des activités du
 centre aéré, nous vous conseillons d'inscrire votre enfant sur les ateliers en
-début de demi-journée, 9h ou 10h le matin ou 14h l'après midi.
+début de demi-journée, 9h ou 10h le matin ou 13h30 l'après midi.
 
 #### Ateliers le mercredi :
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
-| 9h - 10h  | 9 - 11 ans | 8 places disponibles |
-| 10h - 11h | 4 - 8 ans  | 8 places disponibles |
+| 9h - 10h  | 9 - 11 ans | 5 places disponibles |
+| 10h - 11h | 4 - 8 ans  | 5 places disponibles |
 | 11h15 - 12h15 | 4 - 8 ans | 8 places disponibles |
 |:--------:|:-------------:|:----:|
-| 13h30 - 14h30 | 4 - 8 ans | 8 places disponibles |
+| 13h30 - 14h30 | 4 - 8 ans | 7 places disponibles |
 | 14h30 - 15h30 | 9 - 11 | 8 places disponibles |
 | 15h45 - 16h45 | 11 ans et plus | 8 places disponibles |
 |:--------:|:-------------:|:----:|
@@ -117,6 +119,14 @@ lorsque le dossier sera complet : le formulaire d'inscription doit avoir été r
 **pour chaque participant** et vous devez payer l'adhésion à l'association
 ainsi que les activités auxquelles vous souhaitez participer. Le règlement peut
 être échelonné sur plusieurs mois.
+
+<p class="text-center">
+    <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
+        <span class="far fa-check-circle" aria-hidden="true"></span>
+        &nbsp;Inscriptions 2022-2023
+    </a>
+</p>
+
 
 Le règlement de votre cotisation se fait par carte bancaire sur
 le site HelloAsso. Vous aurez deux options : paiement en une fois ou en
