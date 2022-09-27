@@ -19,12 +19,13 @@ devrez accepter lors de l'inscription.
 
 Sommaire :
 
-1. [Dates importantes](#dates-importantes)
-2. [Activités enfants et adolescents](#activités-enfants-et-adolescents)
-3. [Ateliers adultes](#ateliers-adultes)
-4. [Tarifs](#tarifs)
-5. [Lieu des activités](#lieu-des-activités)
-6. [Formulaire d'inscription 2022](#formulaire-dinscription)
+- [Dates importantes](#dates-importantes)
+- [Activités enfants et adolescents](#activités-enfants-et-adolescents)
+    - [Ateliers le mercredi :](#ateliers-le-mercredi-)
+- [Ateliers adultes](#ateliers-adultes)
+- [Tarifs](#tarifs)
+- [Lieu des activités](#lieu-des-activités)
+- [Formulaire d'inscription](#formulaire-dinscription)
 
 ---
 
@@ -66,15 +67,20 @@ début de demi-journée, 9h ou 10h le matin ou 13h30 l'après midi.
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
-| 9h - 10h  | 9 - 11 ans | 5 places disponibles |
-| 10h - 11h | 4 - 8 ans  | 5 places disponibles |
-| 11h15 - 12h15 | 4 - 8 ans | 8 places disponibles |
+| 9h - 10h  | 9 - 11 ans | Complet |
+| 10h - 11h | 4 - 8 ans  | 1 place disponible |
+| 11h15 - 12h15 | 4 - 8 ans | fermé |
 |:--------:|:-------------:|:----:|
-| 13h30 - 14h30 | 4 - 8 ans | 7 places disponibles |
-| 14h30 - 15h30 | 9 - 11 | 8 places disponibles |
-| 15h45 - 16h45 | 11 ans et plus | 8 places disponibles |
+| 13h30 - 14h30 | 4 - 8 ans | fermé |
+| 14h30 - 15h30 | 9 - 11 | fermé |
+| 15h45 - 16h45 | 11 ans et plus | fermé |
 |:--------:|:-------------:|:----:|
 {: .table }
+
+***27 Septembre 2022 :*** Seulement deux groupes sont ouverts actuellement.
+N'hésitez pas à nous contacter si vous êtes intéressés, nous ouvrirons plus
+de groupes en fonction de la demande et nous vous tiendrons informé de 
+la mise en place de stages pendant les vacances scolaires.
 
 
 ## Ateliers adultes
