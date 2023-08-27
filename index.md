@@ -25,18 +25,20 @@ possible. Vous pouvez égalment consulter notre
 
 ---
 
-### Inscriptions 2022-2023
+### Inscriptions 2023-2024
 
 Pour vous inscrire ou inscrire votre enfant, vous devez remplir le
 formulaire ci-dessous **pour chaque participant**. Consultez
-la page [Saison 2022-2023](https://mlangues64.github.io/2022/07/03/inscription2022-2023.html)
+la page [Saison 2023-2024](https://mlangues64.github.io/2023/08/26/inscription2023-2024.html)
 pour plus d'informations.
 
 <p class="text-center">
     <a href="{{ site.baseurl }}/inscriptions " role="button" class="btn btn-lg btn-success" aria-label="Remove">
         <span class="far fa-check-circle" aria-hidden="true"></span>
-        &nbsp;Inscriptions 2022-2023
+        &nbsp;Inscriptions 2023-2024
     </a>
 </p>
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/m-langues/adhesions/inscriptions-2023-2024/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
 ---
