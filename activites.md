@@ -9,9 +9,9 @@ Pour connaître les horaires et les tarifs, consulter la page relative aux
 inscription :
 
 <p class="text-center">
-    <a href="{{ site.baseurl }}{% post_url 2022-07-03-inscription2022-2023 %}" role="button" class="btn btn-lg btn-success" aria-label="Remove">
+    <a href="{{ site.baseurl }}{% post_url 2023-08-26-inscription2023-2024 %}" role="button" class="btn btn-lg btn-success" aria-label="Remove">
         <span class="far fa-check-circle" aria-hidden="true"></span>
-        &nbsp;Inscriptions 2022-2023
+        &nbsp;Inscriptions 2023-2024
     </a>
 </p>
 
@@ -37,6 +37,12 @@ Trois tranches d'âges sont proposées :
 
 Les groupes seront constitués d'au plus 8 enfants.
 
+En partenariat avec le centre aéré
+[Les aventuriers, à Morlaàs](http://www.cc-paysdemorlaas.fr/index.php/enfance-jeunesse/les-aventuriers),
+si vos enfants sont au centre aéré le mercredi matin, ils peuvent participer
+aux activités de l'association.
+
+
 ### Cours pour adultes et adolescents
 
 L'association propose des cours pour adolescents (collège / lycée) et pour adultes.
@@ -50,16 +56,16 @@ pour un séjour à l'étranger, certifications, concours ...) pourront être mis
 place. N'hésitez pas à nous [contacter]({{ site.baseurl }}/contact) pour être
 tenu informé ou nous suivre sur notre [page facebook](https://www.facebook.com/MLangues).
 
-<p class="text-center">
+<!-- <p class="text-center">
     <a href="{{ site.baseurl }}{% post_url 2022-07-01-stage-aout-2022 %}" role="button" class="btn btn-lg btn-info" aria-label="Remove">
         <span class="far fa-check-circle" aria-hidden="true"></span>
         &nbsp;Stage Août 2022
     </a>
-</p>
+</p> -->
 
 ### Lieu des Activités
 
-Les ateliers et cours d'anglais auront lieu dans la bibliothèque de l'école
+Les ateliers et cours d'anglais auront lieu dans l'enceinte de la bibliothèque de l'école
 Jean Moulin à Morlaàs. L'accès se fait par la rue piétonne entre l'école
 primaire (Jean Moulin) et l'école maternelle.
 
