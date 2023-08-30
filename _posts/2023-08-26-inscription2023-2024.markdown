@@ -64,9 +64,9 @@ nombre minimum d'enfants soient inscrits.
 
 | Horaires | Tranche d'âge |      |
 |:--------:|:-------------:|:----:|
-| 9h - 10h  | 9 - 11 ans | 8 places disponibles |
-| 10h - 11h | 4 - 8 ans  | 8 places disponibles |
-| 11h15 - 12h15 | 4 - 8 ans | 8 places disponibles |
+| 9h - 10h  | à définir | 8 places disponibles |
+| 10h - 11h | à définir  | 6 places disponibles |
+| 11h15 - 12h15 | à définir | 7 places disponibles |
 |:--------:|:-------------:|:----:|
 {: .table }
 
